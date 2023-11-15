@@ -1,0 +1,694 @@
+,English Name,Scientific Name,SoIB 2023 Priority Status,Order,Family,Endemicity,Habitat Specialization,IUCN Category,CITES Appendix,source
+0,Fulvous Whistling Duck,Dendrocygna bicolor,Low,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Least Concern,,West_Bengal
+1,Lesser Whistling Duck,Dendrocygna javanica,Low,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Least Concern,,West_Bengal
+2,Bar-headed Goose,Anser indicus,Moderate,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Least Concern,,West_Bengal
+3,Greylag Goose,Anser anser,Low,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Least Concern,,West_Bengal
+4,Knob-billed Duck,Sarkidiornis melanotos,Low,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Least Concern,Appendix II,West_Bengal
+5,Ruddy Shelduck,Tadorna ferruginea,High,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Least Concern,,West_Bengal
+6,Cotton Pygmy Goose,Nettapus coromandelianus,Moderate,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Least Concern,,West_Bengal
+7,Garganey,Spatula querquedula,High,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Least Concern,,West_Bengal
+8,Northern Shoveler,Spatula clypeata,High,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Least Concern,,West_Bengal
+9,Gadwall,Mareca strepera,Moderate,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Least Concern,,West_Bengal
+10,Falcated Duck,Mareca falcata,Moderate,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Near Threatened,,West_Bengal
+11,Eurasian Wigeon,Mareca penelope,Moderate,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Least Concern,,West_Bengal
+12,Indian Spot-billed Duck,Anas poecilorhyncha,Low,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Least Concern,,West_Bengal
+13,Mallard,Anas platyrhynchos,Low,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Least Concern,,West_Bengal
+14,Northern Pintail,Anas acuta,High,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Least Concern,,West_Bengal
+15,Common Teal,Anas crecca,High,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Least Concern,,West_Bengal
+16,Red-crested Pochard,Netta rufina,Low,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Least Concern,,West_Bengal
+17,Common Pochard,Aythya ferina,High,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Vulnerable,,West_Bengal
+18,Ferruginous Duck,Aythya nyroca,Moderate,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Near Threatened,,West_Bengal
+19,Tufted Duck,Aythya fuligula,High,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Least Concern,,West_Bengal
+20,Common Merganser,Mergus merganser,High,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Least Concern,,West_Bengal
+21,Hill Partridge,Arborophila torqueola,Low,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)",Himalayas,Forest,Least Concern,,West_Bengal
+22,Chestnut-breasted Partridge,Arborophila mandellii,Moderate,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)",Eastern Himalayas,Forest,Near Threatened,,West_Bengal
+23,Rufous-throated Partridge,Arborophila rufogularis,Low,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)",Non-endemic,Forest,Least Concern,,West_Bengal
+24,Blood Pheasant,Ithaginis cruentus,High,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)",Non-endemic,Forest,Least Concern,Appendix II,West_Bengal
+25,Satyr Tragopan,Tragopan satyra,Moderate,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)",Indian Subcontinent,Forest,Near Threatened,,West_Bengal
+26,Kalij Pheasant,Lophura leucomelanos,Low,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)",Non-endemic,Forest,Least Concern,,West_Bengal
+27,Indian Peafowl,Pavo cristatus,Low,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)",Indian Subcontinent,Non-specialized,Least Concern,,West_Bengal
+28,Painted Spurfowl,Galloperdix lunulata,Low,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)",Mainland India,Forest & Plantation,Least Concern,,West_Bengal
+29,Grey Peacock Pheasant,Polyplectron bicalcaratum,Moderate,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)",Non-endemic,Forest,Least Concern,Appendix II,West_Bengal
+30,Red Junglefowl,Gallus gallus,Low,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)",Non-endemic,Forest,Least Concern,,West_Bengal
+31,Grey Francolin,Ortygornis pondicerianus,Low,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)",Non-endemic,Open Habitat,Least Concern,,West_Bengal
+32,Black Francolin,Francolinus francolinus,Low,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)",Non-endemic,Open Habitat,Least Concern,,West_Bengal
+33,Jungle Bush Quail,Perdicula asiatica,Low,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)",Indian Subcontinent,Grassland & Scrub,Least Concern,,West_Bengal
+34,Little Grebe,Tachybaptus ruficollis,Low,Podicipediformes,Podicipedidae (Grebes),Non-endemic,Wetland,Least Concern,,West_Bengal
+35,Great Crested Grebe,Podiceps cristatus,High,Podicipediformes,Podicipedidae (Grebes),Non-endemic,Wetland,Least Concern,,West_Bengal
+36,Rock Pigeon,Columba livia,Low,Columbiformes,Columbidae (Pigeons and Doves),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+37,Speckled Wood Pigeon,Columba hodgsonii,Moderate,Columbiformes,Columbidae (Pigeons and Doves),Non-endemic,Forest,Least Concern,,West_Bengal
+38,Ashy Wood Pigeon,Columba pulchricollis,Moderate,Columbiformes,Columbidae (Pigeons and Doves),Non-endemic,Forest,Least Concern,,West_Bengal
+39,Pale-capped Pigeon,Columba punicea,High,Columbiformes,Columbidae (Pigeons and Doves),Non-endemic,Forest & Plantation,Vulnerable,,West_Bengal
+40,Oriental Turtle Dove,Streptopelia orientalis,Low,Columbiformes,Columbidae (Pigeons and Doves),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+41,Eurasian Collared Dove,Streptopelia decaocto,Low,Columbiformes,Columbidae (Pigeons and Doves),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+42,Red Collared Dove,Streptopelia tranquebarica,Low,Columbiformes,Columbidae (Pigeons and Doves),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+43,Spotted Dove,Spilopelia chinensis,Low,Columbiformes,Columbidae (Pigeons and Doves),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+44,Laughing Dove,Spilopelia senegalensis,Low,Columbiformes,Columbidae (Pigeons and Doves),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+45,Barred Cuckoo Dove,Macropygia unchall,Low,Columbiformes,Columbidae (Pigeons and Doves),Non-endemic,Forest,Least Concern,,West_Bengal
+46,Asian Emerald Dove,Chalcophaps indica,Low,Columbiformes,Columbidae (Pigeons and Doves),Non-endemic,Forest,Least Concern,,West_Bengal
+47,Orange-breasted Green Pigeon,Treron bicinctus,Moderate,Columbiformes,Columbidae (Pigeons and Doves),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+48,Ashy-headed Green Pigeon,Treron phayrei,Moderate,Columbiformes,Columbidae (Pigeons and Doves),Non-endemic,Forest,Near Threatened,,West_Bengal
+49,Thick-billed Green Pigeon,Treron curvirostra,Low,Columbiformes,Columbidae (Pigeons and Doves),Non-endemic,Forest,Least Concern,,West_Bengal
+50,Yellow-footed Green Pigeon,Treron phoenicopterus,Low,Columbiformes,Columbidae (Pigeons and Doves),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+51,Pin-tailed Green Pigeon,Treron apicauda,Low,Columbiformes,Columbidae (Pigeons and Doves),Non-endemic,Forest,Least Concern,,West_Bengal
+52,Wedge-tailed Green Pigeon,Treron sphenurus,Low,Columbiformes,Columbidae (Pigeons and Doves),Non-endemic,Forest,Least Concern,,West_Bengal
+53,Green Imperial Pigeon,Ducula aenea,Low,Columbiformes,Columbidae (Pigeons and Doves),Non-endemic,Forest,Near Threatened,,West_Bengal
+54,Mountain Imperial Pigeon,Ducula badia,Low,Columbiformes,Columbidae (Pigeons and Doves),Non-endemic,Forest,Least Concern,,West_Bengal
+55,Lesser Florican,Sypheotides indicus,High,Otidiformes,Otididae (Bustards),Indian Subcontinent,Grassland,Critically Endangered,Appendix II,West_Bengal
+56,Greater Coucal,Centropus sinensis,Low,Cuculiformes,Cuculidae (Cuckoos),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+57,Lesser Coucal,Centropus bengalensis,Low,Cuculiformes,Cuculidae (Cuckoos),Non-endemic,Wetland,Least Concern,,West_Bengal
+58,Sirkeer Malkoha,Taccocua leschenaultii,High,Cuculiformes,Cuculidae (Cuckoos),Indian Subcontinent,Forest,Least Concern,,West_Bengal
+59,Green-billed Malkoha,Phaenicophaeus tristis,Low,Cuculiformes,Cuculidae (Cuckoos),Non-endemic,Forest,Least Concern,,West_Bengal
+60,Chestnut-winged Cuckoo,Clamator coromandus,Moderate,Cuculiformes,Cuculidae (Cuckoos),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+61,Pied Cuckoo,Clamator jacobinus,Low,Cuculiformes,Cuculidae (Cuckoos),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+62,Asian Koel,Eudynamys scolopaceus,Low,Cuculiformes,Cuculidae (Cuckoos),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+63,Asian Emerald Cuckoo,Chrysococcyx maculatus,Moderate,Cuculiformes,Cuculidae (Cuckoos),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+64,Banded Bay Cuckoo,Cacomantis sonneratii,Moderate,Cuculiformes,Cuculidae (Cuckoos),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+65,Plaintive Cuckoo,Cacomantis merulinus,Low,Cuculiformes,Cuculidae (Cuckoos),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+66,Grey-bellied Cuckoo,Cacomantis passerinus,Low,Cuculiformes,Cuculidae (Cuckoos),Indian Subcontinent,Non-specialized,Least Concern,,West_Bengal
+67,Fork-tailed Drongo Cuckoo,Surniculus dicruroides,Low,Cuculiformes,Cuculidae (Cuckoos),Indian Subcontinent,Forest & Plantation,Least Concern,,West_Bengal
+68,Square-tailed Drongo Cuckoo,Surniculus lugubris,Low,Cuculiformes,Cuculidae (Cuckoos),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+69,Large Hawk Cuckoo,Hierococcyx sparverioides,Low,Cuculiformes,Cuculidae (Cuckoos),Non-endemic,Forest,Least Concern,,West_Bengal
+70,Common Hawk Cuckoo,Hierococcyx varius,Low,Cuculiformes,Cuculidae (Cuckoos),Indian Subcontinent,Forest & Plantation,Least Concern,,West_Bengal
+71,Lesser Cuckoo,Cuculus poliocephalus,Low,Cuculiformes,Cuculidae (Cuckoos),Non-endemic,Forest,Least Concern,,West_Bengal
+72,Indian Cuckoo,Cuculus micropterus,Low,Cuculiformes,Cuculidae (Cuckoos),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+73,Himalayan Cuckoo,Cuculus saturatus,Low,Cuculiformes,Cuculidae (Cuckoos),Non-endemic,Forest,Least Concern,,West_Bengal
+74,Common Cuckoo,Cuculus canorus,Low,Cuculiformes,Cuculidae (Cuckoos),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+75,Himalayan Swiftlet,Aerodramus brevirostris,Moderate,Caprimulgiformes,Apodidae (Swifts),Non-endemic,Forest,Least Concern,,West_Bengal
+76,Alpine Swift,Tachymarptis melba,Low,Caprimulgiformes,Apodidae (Swifts),Non-endemic,Forest,Least Concern,,West_Bengal
+77,Blyth's Swift,Apus leuconyx,Moderate,Caprimulgiformes,Apodidae (Swifts),Non-endemic,Forest,Not Recognised,,West_Bengal
+78,Little Swift,Apus affinis,Low,Caprimulgiformes,Apodidae (Swifts),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+79,Asian Palm Swift,Cypsiurus balasiensis,Low,Caprimulgiformes,Apodidae (Swifts),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+80,Crested Treeswift,Hemiprocne coronata,Moderate,Caprimulgiformes,Hemiprocnidae (Treeswifts),Non-endemic,Forest,Least Concern,,West_Bengal
+81,Slaty-breasted Rail,Lewinia striata,Low,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)",Non-endemic,Wetland,Least Concern,,West_Bengal
+82,Common Moorhen,Gallinula chloropus,Low,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)",Non-endemic,Wetland,Least Concern,,West_Bengal
+83,Eurasian Coot,Fulica atra,Low,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)",Non-endemic,Wetland,Least Concern,,West_Bengal
+84,Grey-headed Swamphen,Porphyrio poliocephalus,Low,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)",Non-endemic,Wetland,Not Recognised,,West_Bengal
+85,Watercock,Gallicrex cinerea,Low,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)",Non-endemic,Wetland,Least Concern,,West_Bengal
+86,White-breasted Waterhen,Amaurornis phoenicurus,Low,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)",Non-endemic,Non-specialized,Least Concern,,West_Bengal
+87,Ruddy-breasted Crake,Zapornia fusca,Low,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)",Non-endemic,Wetland,Least Concern,,West_Bengal
+88,Brown Crake,Zapornia akool,Low,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)",Non-endemic,Wetland,Least Concern,,West_Bengal
+89,Baillon's Crake,Zapornia pusilla,Moderate,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)",Non-endemic,Wetland,Least Concern,,West_Bengal
+90,Black-tailed Crake,Zapornia bicolor,Moderate,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)",Non-endemic,Wetland,Least Concern,,West_Bengal
+91,Black-necked Crane,Grus nigricollis,Moderate,Gruiformes,Gruidae (Cranes),Non-endemic,Wetland,Near Threatened,Appendix I,West_Bengal
+92,Indian Thick-knee,Burhinus indicus,Low,Charadriiformes,Burhinidae (Thick-knees),Non-endemic,Open Habitat,Least Concern,,West_Bengal
+93,Great Thick-knee,Esacus recurvirostris,High,Charadriiformes,Burhinidae (Thick-knees),Non-endemic,Wetland,Near Threatened,,West_Bengal
+94,Black-winged Stilt,Himantopus himantopus,Low,Charadriiformes,Recurvirostridae (Stilts and Avocets),Non-endemic,Wetland,Least Concern,,West_Bengal
+95,Pied Avocet,Recurvirostra avosetta,High,Charadriiformes,Recurvirostridae (Stilts and Avocets),Non-endemic,Wetland,Least Concern,,West_Bengal
+96,Ibisbill,Ibidorhyncha struthersii,Moderate,Charadriiformes,Ibidorhynchidae (Ibisbill),Non-endemic,Wetland,Least Concern,,West_Bengal
+97,Grey Plover,Pluvialis squatarola,High,Charadriiformes,Charadriidae (Plovers and Lapwings),Non-endemic,Wetland,Least Concern,,West_Bengal
+98,Pacific Golden Plover,Pluvialis fulva,Moderate,Charadriiformes,Charadriidae (Plovers and Lapwings),Non-endemic,Wetland,Least Concern,,West_Bengal
+99,Northern Lapwing,Vanellus vanellus,Moderate,Charadriiformes,Charadriidae (Plovers and Lapwings),Non-endemic,Wetland,Near Threatened,,West_Bengal
+100,River Lapwing,Vanellus duvaucelii,Low,Charadriiformes,Charadriidae (Plovers and Lapwings),Non-endemic,Wetland,Near Threatened,,West_Bengal
+101,Yellow-wattled Lapwing,Vanellus malabaricus,Low,Charadriiformes,Charadriidae (Plovers and Lapwings),Indian Subcontinent,Open Habitat,Least Concern,,West_Bengal
+102,Grey-headed Lapwing,Vanellus cinereus,Low,Charadriiformes,Charadriidae (Plovers and Lapwings),Non-endemic,Wetland,Least Concern,,West_Bengal
+103,Red-wattled Lapwing,Vanellus indicus,Low,Charadriiformes,Charadriidae (Plovers and Lapwings),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+104,Lesser Sand Plover,Charadrius mongolus,High,Charadriiformes,Charadriidae (Plovers and Lapwings),Non-endemic,Wetland,Least Concern,,West_Bengal
+105,Kentish Plover,Charadrius alexandrinus,High,Charadriiformes,Charadriidae (Plovers and Lapwings),Non-endemic,Wetland,Least Concern,,West_Bengal
+106,Long-billed Plover,Charadrius placidus,Moderate,Charadriiformes,Charadriidae (Plovers and Lapwings),Non-endemic,Wetland,Least Concern,,West_Bengal
+107,Little Ringed Plover,Charadrius dubius,High,Charadriiformes,Charadriidae (Plovers and Lapwings),Non-endemic,Open Habitat,Least Concern,,West_Bengal
+108,Greater Painted-snipe,Rostratula benghalensis,Low,Charadriiformes,Rostratulidae (Painted-Snipes),Non-endemic,Wetland,Least Concern,,West_Bengal
+109,Pheasant-tailed Jacana,Hydrophasianus chirurgus,Moderate,Charadriiformes,Jacanidae (Jacanas),Non-endemic,Wetland,Least Concern,,West_Bengal
+110,Bronze-winged Jacana,Metopidius indicus,Low,Charadriiformes,Jacanidae (Jacanas),Non-endemic,Wetland,Least Concern,,West_Bengal
+111,Whimbrel,Numenius phaeopus,Moderate,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,West_Bengal
+112,Eurasian Curlew,Numenius arquata,High,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Near Threatened,,West_Bengal
+113,Bar-tailed Godwit,Limosa lapponica,Moderate,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Near Threatened,,West_Bengal
+114,Black-tailed Godwit,Limosa limosa,High,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Near Threatened,,West_Bengal
+115,Ruddy Turnstone,Arenaria interpres,Moderate,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,West_Bengal
+116,Great Knot,Calidris tenuirostris,High,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Endangered,,West_Bengal
+117,Ruff,Calidris pugnax,High,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,West_Bengal
+118,Broad-billed Sandpiper,Calidris falcinellus,Moderate,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,West_Bengal
+119,Curlew Sandpiper,Calidris ferruginea,High,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Near Threatened,,West_Bengal
+120,Temminck's Stint,Calidris temminckii,Moderate,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,West_Bengal
+121,Sanderling,Calidris alba,High,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,West_Bengal
+122,Dunlin,Calidris alpina,High,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,West_Bengal
+123,Little Stint,Calidris minuta,High,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,West_Bengal
+124,Common Snipe,Gallinago gallinago,Low,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,West_Bengal
+125,Pintail Snipe,Gallinago stenura,High,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,West_Bengal
+126,Terek Sandpiper,Xenus cinereus,High,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,West_Bengal
+127,Common Sandpiper,Actitis hypoleucos,Moderate,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,West_Bengal
+128,Green Sandpiper,Tringa ochropus,Low,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,West_Bengal
+129,Spotted Redshank,Tringa erythropus,High,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,West_Bengal
+130,Common Greenshank,Tringa nebularia,High,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,West_Bengal
+131,Marsh Sandpiper,Tringa stagnatilis,High,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,West_Bengal
+132,Wood Sandpiper,Tringa glareola,Moderate,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,West_Bengal
+133,Common Redshank,Tringa totanus,High,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,West_Bengal
+134,Yellow-legged Buttonquail,Turnix tanki,Moderate,Charadriiformes,Turnicidae (Buttonquail),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+135,Barred Buttonquail,Turnix suscitator,Low,Charadriiformes,Turnicidae (Buttonquail),Non-endemic,Grassland & Scrub,Least Concern,,West_Bengal
+136,Indian Courser,Cursorius coromandelicus,High,Charadriiformes,Glareolidae (Pratincoles and Coursers),Indian Subcontinent,Grassland,Least Concern,,West_Bengal
+137,Oriental Pratincole,Glareola maldivarum,Low,Charadriiformes,Glareolidae (Pratincoles and Coursers),Non-endemic,Wetland,Least Concern,,West_Bengal
+138,Small Pratincole,Glareola lactea,Moderate,Charadriiformes,Glareolidae (Pratincoles and Coursers),Non-endemic,Wetland,Least Concern,,West_Bengal
+139,Slender-billed Gull,Chroicocephalus genei,High,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Non-endemic,Wetland,Least Concern,,West_Bengal
+140,Black-headed Gull,Chroicocephalus ridibundus,High,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Non-endemic,Wetland,Least Concern,,West_Bengal
+141,Brown-headed Gull,Chroicocephalus brunnicephalus,High,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Non-endemic,Wetland,Least Concern,,West_Bengal
+142,Pallas's Gull,Ichthyaetus ichthyaetus,Moderate,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Non-endemic,Wetland,Least Concern,,West_Bengal
+143,Lesser Black-backed Gull,Larus fuscus,Moderate,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Non-endemic,Wetland,Least Concern,,West_Bengal
+144,Little Tern,Sternula albifrons,High,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Non-endemic,Wetland,Least Concern,,West_Bengal
+145,Gull-billed Tern,Gelochelidon nilotica,High,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Non-endemic,Wetland,Least Concern,,West_Bengal
+146,Caspian Tern,Hydroprogne caspia,High,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Non-endemic,Wetland,Least Concern,,West_Bengal
+147,Whiskered Tern,Chlidonias hybrida,High,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Non-endemic,Wetland,Least Concern,,West_Bengal
+148,Common Tern,Sterna hirundo,High,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Non-endemic,Wetland,Least Concern,,West_Bengal
+149,Black-bellied Tern,Sterna acuticauda,High,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Non-endemic,Wetland,Endangered,,West_Bengal
+150,River Tern,Sterna aurantia,Moderate,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Non-endemic,Wetland,Vulnerable,,West_Bengal
+151,Greater Crested Tern,Thalasseus bergii,Low,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Non-endemic,Wetland,Least Concern,,West_Bengal
+152,Sandwich Tern,Thalasseus sandvicensis,High,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Non-endemic,Wetland,Least Concern,,West_Bengal
+153,Lesser Crested Tern,Thalasseus bengalensis,Moderate,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Non-endemic,Wetland,Least Concern,,West_Bengal
+154,Indian Skimmer,Rynchops albicollis,High,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Non-endemic,Wetland,Endangered,,West_Bengal
+155,Asian Openbill,Anastomus oscitans,Low,Ciconiiformes,Ciconiidae (Storks),Non-endemic,Wetland,Least Concern,,West_Bengal
+156,Black Stork,Ciconia nigra,Moderate,Ciconiiformes,Ciconiidae (Storks),Non-endemic,Wetland,Least Concern,Appendix II,West_Bengal
+157,Woolly-necked Stork,Ciconia episcopus,Moderate,Ciconiiformes,Ciconiidae (Storks),Non-endemic,Open Habitat,Near Threatened,,West_Bengal
+158,Black-necked Stork,Ephippiorhynchus asiaticus,Moderate,Ciconiiformes,Ciconiidae (Storks),Non-endemic,Wetland,Near Threatened,,West_Bengal
+159,Lesser Adjutant,Leptoptilos javanicus,Moderate,Ciconiiformes,Ciconiidae (Storks),Non-endemic,Wetland,Vulnerable,,West_Bengal
+160,Greater Adjutant,Leptoptilos dubius,High,Ciconiiformes,Ciconiidae (Storks),Non-endemic,Open Habitat,Endangered,,West_Bengal
+161,Painted Stork,Mycteria leucocephala,Low,Ciconiiformes,Ciconiidae (Storks),Non-endemic,Wetland,Near Threatened,Appendix I,West_Bengal
+162,Oriental Darter,Anhinga melanogaster,Low,Suliformes,Anhingidae (Anhingas),Non-endemic,Wetland,Near Threatened,,West_Bengal
+163,Little Cormorant,Microcarbo niger,Low,Suliformes,Phalacrocoracidae (Cormorants and Shags),Non-endemic,Wetland,Least Concern,,West_Bengal
+164,Great Cormorant,Phalacrocorax carbo,Low,Suliformes,Phalacrocoracidae (Cormorants and Shags),Non-endemic,Wetland,Least Concern,,West_Bengal
+165,Indian Cormorant,Phalacrocorax fuscicollis,Low,Suliformes,Phalacrocoracidae (Cormorants and Shags),Non-endemic,Wetland,Least Concern,,West_Bengal
+166,Spot-billed Pelican,Pelecanus philippensis,Moderate,Pelecaniformes,Pelecanidae (Pelicans),Non-endemic,Wetland,Near Threatened,,West_Bengal
+167,Yellow Bittern,Ixobrychus sinensis,Low,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Non-endemic,Wetland,Least Concern,,West_Bengal
+168,Cinnamon Bittern,Ixobrychus cinnamomeus,Low,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Non-endemic,Wetland,Least Concern,,West_Bengal
+169,Black Bittern,Ixobrychus flavicollis,Low,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Non-endemic,Wetland,Least Concern,,West_Bengal
+170,Grey Heron,Ardea cinerea,Low,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Non-endemic,Wetland,Least Concern,,West_Bengal
+171,Goliath Heron,Ardea goliath,Low,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Non-endemic,Wetland,Least Concern,,West_Bengal
+172,Purple Heron,Ardea purpurea,Low,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Non-endemic,Wetland,Least Concern,,West_Bengal
+173,Great Egret,Ardea alba,Low,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Non-endemic,Wetland,Least Concern,,West_Bengal
+174,Intermediate Egret,Ardea intermedia,Low,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Non-endemic,Wetland,Least Concern,,West_Bengal
+175,Little Egret,Egretta garzetta,Low,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Non-endemic,Wetland,Least Concern,,West_Bengal
+176,Western Reef Egret,Egretta gularis,High,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Non-endemic,Wetland,Least Concern,,West_Bengal
+177,Cattle Egret,Bubulcus ibis,Low,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Non-endemic,Wetland,Least Concern,,West_Bengal
+178,Indian Pond Heron,Ardeola grayii,Low,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Non-endemic,Non-specialized,Least Concern,,West_Bengal
+179,Striated Heron,Butorides striata,Moderate,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Non-endemic,Wetland,Least Concern,,West_Bengal
+180,Black-crowned Night Heron,Nycticorax nycticorax,Low,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Non-endemic,Wetland,Least Concern,,West_Bengal
+181,Glossy Ibis,Plegadis falcinellus,Low,Pelecaniformes,Threskiornithidae (Ibises and Spoonbills),Non-endemic,Wetland,Least Concern,,West_Bengal
+182,Black-headed Ibis,Threskiornis melanocephalus,Low,Pelecaniformes,Threskiornithidae (Ibises and Spoonbills),Non-endemic,Wetland,Near Threatened,,West_Bengal
+183,Red-naped Ibis,Pseudibis papillosa,Low,Pelecaniformes,Threskiornithidae (Ibises and Spoonbills),Indian Subcontinent,Non-specialized,Least Concern,,West_Bengal
+184,Eurasian Spoonbill,Platalea leucorodia,High,Pelecaniformes,Threskiornithidae (Ibises and Spoonbills),Non-endemic,Wetland,Least Concern,,West_Bengal
+185,Osprey,Pandion haliaetus,High,Accipitriformes,Pandionidae (Osprey),Non-endemic,Wetland,Least Concern,Appendix II,West_Bengal
+186,Black-winged Kite,Elanus caeruleus,Moderate,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Open Habitat,Least Concern,Appendix II,West_Bengal
+187,Bearded Vulture,Gypaetus barbatus,High,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Non-specialized,Near Threatened,Appendix II,West_Bengal
+188,Egyptian Vulture,Neophron percnopterus,High,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Open Habitat,Endangered,Appendix II,West_Bengal
+189,Oriental Honey Buzzard,Pernis ptilorhynchus,Low,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Forest & Plantation,Least Concern,Appendix II,West_Bengal
+190,Jerdon's Baza,Aviceda jerdoni,Low,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Forest,Least Concern,Appendix II,West_Bengal
+191,Black Baza,Aviceda leuphotes,Moderate,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Forest,Least Concern,Appendix II,West_Bengal
+192,Red-headed Vulture,Sarcogyps calvus,High,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Forest,Critically Endangered,Appendix II,West_Bengal
+193,Cinereous Vulture,Aegypius monachus,Moderate,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Open Habitat,Near Threatened,Appendix II,West_Bengal
+194,White-rumped Vulture,Gyps bengalensis,High,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Non-specialized,Critically Endangered,Appendix II,West_Bengal
+195,Indian Vulture,Gyps indicus,High,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Indian Subcontinent,Forest & Plantation,Critically Endangered,Appendix II,West_Bengal
+196,Slender-billed Vulture,Gyps tenuirostris,High,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Open Habitat,Critically Endangered,Appendix II,West_Bengal
+197,Himalayan Vulture,Gyps himalayensis,Moderate,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Non-specialized,Near Threatened,Appendix II,West_Bengal
+198,Griffon Vulture,Gyps fulvus,High,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Open Habitat,Least Concern,Appendix II,West_Bengal
+199,Crested Serpent Eagle,Spilornis cheela,Low,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Forest,Least Concern,Appendix II,West_Bengal
+200,Short-toed Snake Eagle,Circaetus gallicus,High,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Open Habitat,Least Concern,Appendix II,West_Bengal
+201,Changeable Hawk Eagle,Nisaetus cirrhatus,Low,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Forest,Least Concern,Appendix II,West_Bengal
+202,Mountain Hawk Eagle,Nisaetus nipalensis,Low,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Forest,Near Threatened,Appendix II,West_Bengal
+203,Rufous-bellied Eagle,Lophotriorchis kienerii,Low,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Forest,Near Threatened,Appendix II,West_Bengal
+204,Black Eagle,Ictinaetus malaiensis,Low,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Forest,Least Concern,Appendix II,West_Bengal
+205,Indian Spotted Eagle,Clanga hastata,Moderate,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Open Habitat,Vulnerable,Appendix II,West_Bengal
+206,Greater Spotted Eagle,Clanga clanga,Low,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Open Habitat,Vulnerable,Appendix II,West_Bengal
+207,Booted Eagle,Hieraaetus pennatus,Low,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Non-specialized,Least Concern,Appendix II,West_Bengal
+208,Steppe Eagle,Aquila nipalensis,Low,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Non-specialized,Endangered,Appendix II,West_Bengal
+209,Golden Eagle,Aquila chrysaetos,Low,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Alpine & Cold Desert,Least Concern,Appendix II,West_Bengal
+210,Bonelli's Eagle,Aquila fasciata,Low,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Non-specialized,Least Concern,Appendix II,West_Bengal
+211,White-eyed Buzzard,Butastur teesa,Moderate,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Non-specialized,Least Concern,Appendix II,West_Bengal
+212,Western Marsh Harrier,Circus aeruginosus,High,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Open Habitat,Least Concern,Appendix II,West_Bengal
+213,Hen Harrier,Circus cyaneus,Moderate,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Open Habitat,Least Concern,Appendix II,West_Bengal
+214,Pallid Harrier,Circus macrourus,High,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Grassland,Near Threatened,Appendix II,West_Bengal
+215,Pied Harrier,Circus melanoleucos,Low,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Open Habitat,Least Concern,Appendix II,West_Bengal
+216,Crested Goshawk,Accipiter trivirgatus,Moderate,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Forest,Least Concern,Appendix II,West_Bengal
+217,Shikra,Accipiter badius,Low,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Non-specialized,Least Concern,Appendix II,West_Bengal
+218,Besra,Accipiter virgatus,Low,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Forest,Least Concern,Appendix II,West_Bengal
+219,Eurasian Sparrowhawk,Accipiter nisus,Low,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Non-specialized,Least Concern,Appendix II,West_Bengal
+220,Black Kite,Milvus migrans,Low,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Non-specialized,Least Concern,Appendix II,West_Bengal
+221,Brahminy Kite,Haliastur indus,Low,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Wetland,Least Concern,Appendix II,West_Bengal
+222,Pallas's Fish Eagle,Haliaeetus leucoryphus,High,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Wetland,Endangered,Appendix II,West_Bengal
+223,White-bellied Sea Eagle,Haliaeetus leucogaster,Moderate,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Wetland,Least Concern,Appendix II,West_Bengal
+224,Lesser Fish Eagle,Haliaeetus humilis,Low,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Wetland,Near Threatened,Appendix II,West_Bengal
+225,Grey-headed Fish Eagle,Haliaeetus ichthyaetus,Moderate,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Wetland,Near Threatened,Appendix II,West_Bengal
+226,Common Buzzard,Buteo buteo,Low,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Non-specialized,Least Concern,Appendix II,West_Bengal
+227,Long-legged Buzzard,Buteo rufinus,Low,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Non-specialized,Least Concern,Appendix II,West_Bengal
+228,Brown Fish Owl,Ketupa zeylonensis,Moderate,Strigiformes,Strigidae (Owls),Non-endemic,Non-specialized,Least Concern,Appendix II,West_Bengal
+229,Asian Barred Owlet,Glaucidium cuculoides,Low,Strigiformes,Strigidae (Owls),Non-endemic,Non-specialized,Least Concern,Appendix II,West_Bengal
+230,Jungle Owlet,Glaucidium radiatum,Low,Strigiformes,Strigidae (Owls),Indian Subcontinent,Forest & Plantation,Least Concern,Appendix II,West_Bengal
+231,Collared Owlet,Taenioptynx brodiei,Low,Strigiformes,Strigidae (Owls),Non-endemic,Forest,Least Concern,Appendix II,West_Bengal
+232,Short-eared Owl,Asio flammeus,Low,Strigiformes,Strigidae (Owls),Non-endemic,Grassland,Least Concern,Appendix II,West_Bengal
+233,Red-headed Trogon,Harpactes erythrocephalus,Low,Trogoniformes,Trogonidae (Trogons),Non-endemic,Forest,Least Concern,,West_Bengal
+234,Ward's Trogon,Harpactes wardi,Moderate,Trogoniformes,Trogonidae (Trogons),Eastern Himalayas,Forest,Near Threatened,,West_Bengal
+235,Eurasian Hoopoe,Upupa epops,Moderate,Bucerotiformes,Upupidae (Hoopoes),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+236,Great Hornbill,Buceros bicornis,Low,Bucerotiformes,Bucerotidae (Hornbills),Non-endemic,Forest,Vulnerable,Appendix I,West_Bengal
+237,Indian Grey Hornbill,Ocyceros birostris,Low,Bucerotiformes,Bucerotidae (Hornbills),Indian Subcontinent,Non-specialized,Least Concern,,West_Bengal
+238,Malabar Pied Hornbill,Anthracoceros coronatus,Moderate,Bucerotiformes,Bucerotidae (Hornbills),Indian Subcontinent,Forest & Plantation,Near Threatened,Appendix II,West_Bengal
+239,Oriental Pied Hornbill,Anthracoceros albirostris,Low,Bucerotiformes,Bucerotidae (Hornbills),Non-endemic,Forest & Plantation,Least Concern,Appendix II,West_Bengal
+240,Rufous-necked Hornbill,Aceros nipalensis,High,Bucerotiformes,Bucerotidae (Hornbills),Non-endemic,Forest,Vulnerable,Appendix I,West_Bengal
+241,Wreathed Hornbill,Rhyticeros undulatus,High,Bucerotiformes,Bucerotidae (Hornbills),Non-endemic,Forest,Vulnerable,Appendix II,West_Bengal
+242,Common Kingfisher,Alcedo atthis,Low,Coraciiformes,Alcedinidae (Kingfishers),Non-endemic,Wetland,Least Concern,,West_Bengal
+243,Blue-eared Kingfisher,Alcedo meninting,Low,Coraciiformes,Alcedinidae (Kingfishers),Non-endemic,Forest,Least Concern,,West_Bengal
+244,Brown-winged Kingfisher,Pelargopsis amauroptera,High,Coraciiformes,Alcedinidae (Kingfishers),Non-endemic,Wetland,Near Threatened,,West_Bengal
+245,Stork-billed Kingfisher,Pelargopsis capensis,Low,Coraciiformes,Alcedinidae (Kingfishers),Non-endemic,Wetland,Least Concern,,West_Bengal
+246,Ruddy Kingfisher,Halcyon coromanda,Moderate,Coraciiformes,Alcedinidae (Kingfishers),Non-endemic,Forest,Least Concern,,West_Bengal
+247,White-throated Kingfisher,Halcyon smyrnensis,Low,Coraciiformes,Alcedinidae (Kingfishers),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+248,Black-capped Kingfisher,Halcyon pileata,High,Coraciiformes,Alcedinidae (Kingfishers),Non-endemic,Wetland,Vulnerable,,West_Bengal
+249,Collared Kingfisher,Todiramphus chloris,Moderate,Coraciiformes,Alcedinidae (Kingfishers),Non-endemic,Forest,Least Concern,,West_Bengal
+250,Crested Kingfisher,Megaceryle lugubris,Moderate,Coraciiformes,Alcedinidae (Kingfishers),Non-endemic,Wetland,Least Concern,,West_Bengal
+251,Pied Kingfisher,Ceryle rudis,Moderate,Coraciiformes,Alcedinidae (Kingfishers),Non-endemic,Wetland,Least Concern,,West_Bengal
+252,Blue-bearded Bee-eater,Nyctyornis athertoni,Low,Coraciiformes,Meropidae (Bee-eaters),Non-endemic,Forest,Least Concern,,West_Bengal
+253,Green Bee-eater,Merops orientalis,Low,Coraciiformes,Meropidae (Bee-eaters),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+254,Blue-tailed Bee-eater,Merops philippinus,Low,Coraciiformes,Meropidae (Bee-eaters),Non-endemic,Open Habitat,Least Concern,,West_Bengal
+255,Chestnut-headed Bee-eater,Merops leschenaulti,Low,Coraciiformes,Meropidae (Bee-eaters),Non-endemic,Forest,Least Concern,,West_Bengal
+256,Indian Roller,Coracias benghalensis,Moderate,Coraciiformes,Coraciidae (Rollers),Non-endemic,Open Habitat,Least Concern,,West_Bengal
+257,Indochinese Roller,Coracias affinis,Low,Coraciiformes,Coraciidae (Rollers),Non-endemic,Open Habitat,Least Concern,,West_Bengal
+258,Dollarbird,Eurystomus orientalis,Low,Coraciiformes,Coraciidae (Rollers),Non-endemic,Forest,Least Concern,,West_Bengal
+259,Coppersmith Barbet,Psilopogon haemacephalus,Low,Piciformes,Megalaimidae (Asian Barbets),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+260,Blue-eared Barbet,Psilopogon duvaucelii,Low,Piciformes,Megalaimidae (Asian Barbets),Non-endemic,Forest,Least Concern,,West_Bengal
+261,Great Barbet,Psilopogon virens,Low,Piciformes,Megalaimidae (Asian Barbets),Non-endemic,Forest,Least Concern,,West_Bengal
+262,Lineated Barbet,Psilopogon lineatus,Low,Piciformes,Megalaimidae (Asian Barbets),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+263,Brown-headed Barbet,Psilopogon zeylanicus,Low,Piciformes,Megalaimidae (Asian Barbets),Indian Subcontinent,Non-specialized,Least Concern,,West_Bengal
+264,Golden-throated Barbet,Psilopogon franklinii,Low,Piciformes,Megalaimidae (Asian Barbets),Non-endemic,Forest,Least Concern,,West_Bengal
+265,Blue-throated Barbet,Psilopogon asiaticus,Low,Piciformes,Megalaimidae (Asian Barbets),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+266,Yellow-rumped Honeyguide,Indicator xanthonotus,Moderate,Piciformes,Indicatoridae (Honeyguides),Himalayas,Forest,Near Threatened,,West_Bengal
+267,Eurasian Wryneck,Jynx torquilla,Low,Piciformes,Picidae (Woodpeckers),Non-endemic,Open Habitat,Least Concern,,West_Bengal
+268,Speckled Piculet,Picumnus innominatus,Low,Piciformes,Picidae (Woodpeckers),Non-endemic,Forest,Least Concern,,West_Bengal
+269,White-browed Piculet,Sasia ochracea,Low,Piciformes,Picidae (Woodpeckers),Non-endemic,Forest,Least Concern,,West_Bengal
+270,Brown-capped Pygmy Woodpecker,Yungipicus nanus,Moderate,Piciformes,Picidae (Woodpeckers),Indian Subcontinent,Forest & Plantation,Least Concern,,West_Bengal
+271,Grey-capped Pygmy Woodpecker,Yungipicus canicapillus,Low,Piciformes,Picidae (Woodpeckers),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+272,Yellow-crowned Woodpecker,Leiopicus mahrattensis,High,Piciformes,Picidae (Woodpeckers),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+273,Rufous-bellied Woodpecker,Dendrocopos hyperythrus,Low,Piciformes,Picidae (Woodpeckers),Non-endemic,Forest,Least Concern,,West_Bengal
+274,Fulvous-breasted Woodpecker,Dendrocopos macei,Low,Piciformes,Picidae (Woodpeckers),Non-endemic,Forest,Least Concern,,West_Bengal
+275,Darjeeling Woodpecker,Dendrocopos darjellensis,Moderate,Piciformes,Picidae (Woodpeckers),Non-endemic,Forest,Least Concern,,West_Bengal
+276,Crimson-breasted Woodpecker,Dryobates cathpharius,Moderate,Piciformes,Picidae (Woodpeckers),Non-endemic,Forest,Least Concern,,West_Bengal
+277,Bay Woodpecker,Blythipicus pyrrhotis,Low,Piciformes,Picidae (Woodpeckers),Non-endemic,Forest,Least Concern,,West_Bengal
+278,Greater Flameback,Chrysocolaptes guttacristatus,Low,Piciformes,Picidae (Woodpeckers),Non-endemic,Forest,Least Concern,,West_Bengal
+279,White-naped Woodpecker,Chrysocolaptes festivus,Moderate,Piciformes,Picidae (Woodpeckers),Indian Subcontinent,Forest & Plantation,Least Concern,,West_Bengal
+280,Rufous Woodpecker,Micropternus brachyurus,Low,Piciformes,Picidae (Woodpeckers),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+281,Pale-headed Woodpecker,Gecinulus grantia,Moderate,Piciformes,Picidae (Woodpeckers),Non-endemic,Forest,Least Concern,,West_Bengal
+282,Himalayan Flameback,Dinopium shorii,Moderate,Piciformes,Picidae (Woodpeckers),Himalayas,Forest,Least Concern,,West_Bengal
+283,Black-rumped Flameback,Dinopium benghalense,Low,Piciformes,Picidae (Woodpeckers),Indian Subcontinent,Non-specialized,Least Concern,,West_Bengal
+284,Lesser Yellownape,Picus chlorolophus,Low,Piciformes,Picidae (Woodpeckers),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+285,Streak-throated Woodpecker,Picus xanthopygaeus,Low,Piciformes,Picidae (Woodpeckers),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+286,Grey-headed Woodpecker,Picus canus,Low,Piciformes,Picidae (Woodpeckers),Non-endemic,Forest,Least Concern,,West_Bengal
+287,Greater Yellownape,Chrysophlegma flavinucha,Low,Piciformes,Picidae (Woodpeckers),Non-endemic,Forest,Least Concern,,West_Bengal
+288,Collared Falconet,Microhierax caerulescens,Moderate,Falconiformes,Falconidae (Falcons and Caracaras),Non-endemic,Forest,Least Concern,Appendix II,West_Bengal
+289,Common Kestrel,Falco tinnunculus,High,Falconiformes,Falconidae (Falcons and Caracaras),Non-endemic,Open Habitat,Least Concern,Appendix II,West_Bengal
+290,Red-necked Falcon,Falco chicquera,Moderate,Falconiformes,Falconidae (Falcons and Caracaras),Non-endemic,Open Habitat,Near Threatened,Appendix II,West_Bengal
+291,Amur Falcon,Falco amurensis,Moderate,Falconiformes,Falconidae (Falcons and Caracaras),Non-endemic,Open Habitat,Least Concern,Appendix II,West_Bengal
+292,Eurasian Hobby,Falco subbuteo,Low,Falconiformes,Falconidae (Falcons and Caracaras),Non-endemic,Open Habitat,Least Concern,Appendix II,West_Bengal
+293,Oriental Hobby,Falco severus,Moderate,Falconiformes,Falconidae (Falcons and Caracaras),Non-endemic,Forest,Least Concern,Appendix II,West_Bengal
+294,Saker Falcon,Falco cherrug,High,Falconiformes,Falconidae (Falcons and Caracaras),Non-endemic,Open Habitat,Endangered,Appendix II,West_Bengal
+295,Peregrine Falcon,Falco peregrinus,Low,Falconiformes,Falconidae (Falcons and Caracaras),Non-endemic,Open Habitat,Least Concern,Appendix I,West_Bengal
+296,Alexandrine Parakeet,Psittacula eupatria,Low,Psittaciformes,Psittaculidae (Old World Parrots),Non-endemic,Forest & Plantation,Near Threatened,Appendix II,West_Bengal
+297,Rose-ringed Parakeet,Psittacula krameri,Low,Psittaciformes,Psittaculidae (Old World Parrots),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+298,Slaty-headed Parakeet,Psittacula himalayana,Low,Psittaciformes,Psittaculidae (Old World Parrots),Indian Subcontinent,Forest & Plantation,Least Concern,Appendix II,West_Bengal
+299,Plum-headed Parakeet,Psittacula cyanocephala,Low,Psittaciformes,Psittaculidae (Old World Parrots),Indian Subcontinent,Forest,Least Concern,Appendix II,West_Bengal
+300,Blossom-headed Parakeet,Psittacula roseata,Moderate,Psittaciformes,Psittaculidae (Old World Parrots),Non-endemic,Forest & Plantation,Near Threatened,Appendix II,West_Bengal
+301,Red-breasted Parakeet,Psittacula alexandri,Low,Psittaciformes,Psittaculidae (Old World Parrots),Non-endemic,Forest,Near Threatened,Appendix II,West_Bengal
+302,Vernal Hanging Parrot,Loriculus vernalis,Low,Psittaciformes,Psittaculidae (Old World Parrots),Non-endemic,Forest & Plantation,Least Concern,Appendix II,West_Bengal
+303,Long-tailed Broadbill,Psarisomus dalhousiae,Low,Passeriformes,Eurylaimidae (Asian and Grauer's Broadbills),Non-endemic,Forest,Least Concern,,West_Bengal
+304,Silver-breasted Broadbill,Serilophus lunatus,Moderate,Passeriformes,Eurylaimidae (Asian and Grauer's Broadbills),Non-endemic,Forest,Least Concern,,West_Bengal
+305,Blue-naped Pitta,Hydrornis nipalensis,Moderate,Passeriformes,Pittidae (Pittas),Non-endemic,Forest,Least Concern,,West_Bengal
+306,Indian Pitta,Pitta brachyura,Low,Passeriformes,Pittidae (Pittas),Indian Subcontinent,Forest & Plantation,Least Concern,,West_Bengal
+307,Hooded Pitta,Pitta sordida,Moderate,Passeriformes,Pittidae (Pittas),Non-endemic,Forest,Least Concern,,West_Bengal
+308,Mangrove Pitta,Pitta megarhyncha,High,Passeriformes,Pittidae (Pittas),Non-endemic,Wetland,Near Threatened,,West_Bengal
+309,Small Minivet,Pericrocotus cinnamomeus,Low,Passeriformes,Campephagidae (Cuckooshrikes),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+310,Short-billed Minivet,Pericrocotus brevirostris,Moderate,Passeriformes,Campephagidae (Cuckooshrikes),Non-endemic,Forest,Least Concern,,West_Bengal
+311,Long-tailed Minivet,Pericrocotus ethologus,Low,Passeriformes,Campephagidae (Cuckooshrikes),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+312,Scarlet Minivet,Pericrocotus speciosus,Low,Passeriformes,Campephagidae (Cuckooshrikes),Non-endemic,Forest,Not Recognised,,West_Bengal
+313,Rosy Minivet,Pericrocotus roseus,Low,Passeriformes,Campephagidae (Cuckooshrikes),Non-endemic,Forest,Least Concern,,West_Bengal
+314,Large Cuckooshrike,Coracina macei,Moderate,Passeriformes,Campephagidae (Cuckooshrikes),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+315,Black-winged Cuckooshrike,Lalage melaschistos,Low,Passeriformes,Campephagidae (Cuckooshrikes),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+316,Black-headed Cuckooshrike,Lalage melanoptera,Low,Passeriformes,Campephagidae (Cuckooshrikes),Indian Subcontinent,Forest & Plantation,Least Concern,,West_Bengal
+317,Black-headed Shrike-babbler,Pteruthius rufiventer,Moderate,Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)",Eastern Himalayas,Forest,Least Concern,,West_Bengal
+318,White-browed Shrike-babbler,Pteruthius aeralatus,Low,Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)",Non-endemic,Forest,Least Concern,,West_Bengal
+319,Green Shrike-babbler,Pteruthius xanthochlorus,Low,Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)",Non-endemic,Forest,Least Concern,,West_Bengal
+320,Black-eared Shrike-babbler,Pteruthius melanotis,Low,Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)",Non-endemic,Forest,Least Concern,,West_Bengal
+321,White-bellied Erpornis,Erpornis zantholeuca,Low,Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)",Non-endemic,Forest,Least Concern,,West_Bengal
+322,Indian Golden Oriole,Oriolus kundoo,Low,Passeriformes,Oriolidae (Old World Orioles),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+323,Black-naped Oriole,Oriolus chinensis,Low,Passeriformes,Oriolidae (Old World Orioles),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+324,Slender-billed Oriole,Oriolus tenuirostris,High,Passeriformes,Oriolidae (Old World Orioles),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+325,Black-hooded Oriole,Oriolus xanthornus,Low,Passeriformes,Oriolidae (Old World Orioles),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+326,Maroon Oriole,Oriolus traillii,Low,Passeriformes,Oriolidae (Old World Orioles),Non-endemic,Forest,Least Concern,,West_Bengal
+327,Ashy Woodswallow,Artamus fuscus,Low,Passeriformes,"Artamidae (Woodswallows, Bellmagpies, and Allies)",Non-endemic,Non-specialized,Least Concern,,West_Bengal
+328,Large Woodshrike,Tephrodornis virgatus,Moderate,Passeriformes,"Vangidae (Vangas, Helmetshrikes, and Allies)",Non-endemic,Forest,Least Concern,,West_Bengal
+329,Common Woodshrike,Tephrodornis pondicerianus,Moderate,Passeriformes,"Vangidae (Vangas, Helmetshrikes, and Allies)",Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+330,Bar-winged Flycatcher-shrike,Hemipus picatus,Low,Passeriformes,"Vangidae (Vangas, Helmetshrikes, and Allies)",Non-endemic,Forest,Least Concern,,West_Bengal
+331,Common Iora,Aegithina tiphia,Low,Passeriformes,Aegithinidae (Ioras),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+332,White-throated Fantail,Rhipidura albicollis,Low,Passeriformes,Rhipiduridae (Fantails),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+333,White-browed Fantail,Rhipidura aureola,Moderate,Passeriformes,Rhipiduridae (Fantails),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+334,Black Drongo,Dicrurus macrocercus,Low,Passeriformes,Dicruridae (Drongos),Non-endemic,Open Habitat,Least Concern,,West_Bengal
+335,Ashy Drongo,Dicrurus leucophaeus,Low,Passeriformes,Dicruridae (Drongos),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+336,White-bellied Drongo,Dicrurus caerulescens,Moderate,Passeriformes,Dicruridae (Drongos),Indian Subcontinent,Forest & Plantation,Least Concern,,West_Bengal
+337,Bronzed Drongo,Dicrurus aeneus,Low,Passeriformes,Dicruridae (Drongos),Non-endemic,Forest,Least Concern,,West_Bengal
+338,Lesser Racket-tailed Drongo,Dicrurus remifer,Moderate,Passeriformes,Dicruridae (Drongos),Non-endemic,Forest,Least Concern,,West_Bengal
+339,Hair-crested Drongo,Dicrurus hottentottus,Moderate,Passeriformes,Dicruridae (Drongos),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+340,Greater Racket-tailed Drongo,Dicrurus paradiseus,Low,Passeriformes,Dicruridae (Drongos),Non-endemic,Forest,Least Concern,,West_Bengal
+341,Black-naped Monarch,Hypothymis azurea,Low,Passeriformes,Monarchidae (Monarch Flycatchers),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+342,Indian Paradise-flycatcher,Terpsiphone paradisi,Low,Passeriformes,Monarchidae (Monarch Flycatchers),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+343,Brown Shrike,Lanius cristatus,Low,Passeriformes,Laniidae (Shrikes),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+344,Bay-backed Shrike,Lanius vittatus,Low,Passeriformes,Laniidae (Shrikes),Non-endemic,Open Habitat,Least Concern,,West_Bengal
+345,Long-tailed Shrike,Lanius schach,Low,Passeriformes,Laniidae (Shrikes),Non-endemic,Open Habitat,Least Concern,,West_Bengal
+346,Grey-backed Shrike,Lanius tephronotus,Low,Passeriformes,Laniidae (Shrikes),Non-endemic,Open Habitat,Least Concern,,West_Bengal
+347,Great Grey Shrike,Lanius excubitor,High,Passeriformes,Laniidae (Shrikes),Non-endemic,Grassland,Least Concern,,West_Bengal
+348,Eurasian Jay,Garrulus glandarius,Low,Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Non-endemic,Forest,Least Concern,,West_Bengal
+349,Yellow-billed Blue Magpie,Urocissa flavirostris,Low,Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Himalayas,Forest,Least Concern,,West_Bengal
+350,Red-billed Blue Magpie,Urocissa erythroryncha,Low,Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Non-endemic,Non-specialized,Least Concern,,West_Bengal
+351,Common Green Magpie,Cissa chinensis,Low,Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Non-endemic,Forest,Least Concern,,West_Bengal
+352,Rufous Treepie,Dendrocitta vagabunda,Low,Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Non-endemic,Non-specialized,Least Concern,,West_Bengal
+353,Grey Treepie,Dendrocitta formosae,Low,Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Non-endemic,Forest,Least Concern,,West_Bengal
+354,Collared Treepie,Dendrocitta frontalis,Moderate,Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Non-endemic,Forest,Least Concern,,West_Bengal
+355,Spotted Nutcracker,Nucifraga caryocatactes,Low,Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Non-endemic,Forest,Least Concern,,West_Bengal
+356,House Crow,Corvus splendens,Low,Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Non-endemic,Non-specialized,Least Concern,,West_Bengal
+357,Large-billed Crow,Corvus macrorhynchos,Low,Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Non-endemic,Non-specialized,Least Concern,,West_Bengal
+358,Yellow-bellied Fantail,Chelidorhynx hypoxanthus,Moderate,Passeriformes,Stenostiridae (Fairy Flycatchers),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+359,Grey-headed Canary-flycatcher,Culicicapa ceylonensis,Moderate,Passeriformes,Stenostiridae (Fairy Flycatchers),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+360,Yellow-browed Tit,Sylviparus modestus,Moderate,Passeriformes,"Paridae (Tits, Chickadees, and Titmice)",Non-endemic,Forest,Least Concern,,West_Bengal
+361,Sultan Tit,Melanochlora sultanea,Low,Passeriformes,"Paridae (Tits, Chickadees, and Titmice)",Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+362,Coal Tit,Periparus ater,Low,Passeriformes,"Paridae (Tits, Chickadees, and Titmice)",Non-endemic,Forest,Least Concern,,West_Bengal
+363,Rufous-vented Tit,Periparus rubidiventris,High,Passeriformes,"Paridae (Tits, Chickadees, and Titmice)",Non-endemic,Forest,Least Concern,,West_Bengal
+364,Grey-crested Tit,Lophophanes dichrous,High,Passeriformes,"Paridae (Tits, Chickadees, and Titmice)",Non-endemic,Forest,Least Concern,,West_Bengal
+365,Green-backed Tit,Parus monticolus,Low,Passeriformes,"Paridae (Tits, Chickadees, and Titmice)",Non-endemic,Non-specialized,Least Concern,,West_Bengal
+366,Cinereous Tit,Parus cinereus,Low,Passeriformes,"Paridae (Tits, Chickadees, and Titmice)",Non-endemic,Non-specialized,Least Concern,,West_Bengal
+367,Himalayan Black-lored Tit,Machlolophus xanthogenys,Low,Passeriformes,"Paridae (Tits, Chickadees, and Titmice)",Himalayas,Forest & Plantation,Least Concern,,West_Bengal
+368,Indian Black-lored Tit,Machlolophus aplonotus,Low,Passeriformes,"Paridae (Tits, Chickadees, and Titmice)",Mainland India,Forest & Plantation,Not Recognised,,West_Bengal
+369,Yellow-cheeked Tit,Machlolophus spilonotus,Low,Passeriformes,"Paridae (Tits, Chickadees, and Titmice)",Non-endemic,Forest,Least Concern,,West_Bengal
+370,Rufous-tailed Lark,Ammomanes phoenicura,High,Passeriformes,Alaudidae (Larks),Indian Subcontinent,Open Habitat,Least Concern,,West_Bengal
+371,Ashy-crowned Sparrow Lark,Eremopterix griseus,Moderate,Passeriformes,Alaudidae (Larks),Indian Subcontinent,Open Habitat,Least Concern,,West_Bengal
+372,Bengal Bushlark,Mirafra assamica,Low,Passeriformes,Alaudidae (Larks),Indian Subcontinent,Open Habitat,Least Concern,,West_Bengal
+373,Jerdon's Bushlark,Mirafra affinis,Low,Passeriformes,Alaudidae (Larks),Indian Subcontinent,Open Habitat,Least Concern,,West_Bengal
+374,Indian Bushlark,Mirafra erythroptera,Moderate,Passeriformes,Alaudidae (Larks),Indian Subcontinent,Open Habitat,Least Concern,,West_Bengal
+375,Greater Short-toed Lark,Calandrella brachydactyla,Moderate,Passeriformes,Alaudidae (Larks),Non-endemic,Open Habitat,Least Concern,,West_Bengal
+376,Hume's Short-toed Lark,Calandrella acutirostris,Moderate,Passeriformes,Alaudidae (Larks),Non-endemic,Open Habitat,Least Concern,,West_Bengal
+377,Sand Lark,Alaudala raytal,Moderate,Passeriformes,Alaudidae (Larks),Non-endemic,Open Habitat,Least Concern,,West_Bengal
+378,Oriental Skylark,Alauda gulgula,High,Passeriformes,Alaudidae (Larks),Non-endemic,Open Habitat,Least Concern,,West_Bengal
+379,Common Tailorbird,Orthotomus sutorius,Low,Passeriformes,Cisticolidae (Cisticolas and Allies),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+380,Himalayan Prinia,Prinia crinigera,Low,Passeriformes,Cisticolidae (Cisticolas and Allies),Non-endemic,Grassland & Scrub,Least Concern,,West_Bengal
+381,Black-throated Prinia,Prinia atrogularis,Moderate,Passeriformes,Cisticolidae (Cisticolas and Allies),Eastern Himalayas,Grassland & Scrub,Least Concern,,West_Bengal
+382,Rufescent Prinia,Prinia rufescens,Low,Passeriformes,Cisticolidae (Cisticolas and Allies),Non-endemic,Forest,Least Concern,,West_Bengal
+383,Grey-breasted Prinia,Prinia hodgsonii,Low,Passeriformes,Cisticolidae (Cisticolas and Allies),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+384,Delicate Prinia,Prinia lepida,Low,Passeriformes,Cisticolidae (Cisticolas and Allies),Non-endemic,Grassland,Not Recognised,,West_Bengal
+385,Jungle Prinia,Prinia sylvatica,Low,Passeriformes,Cisticolidae (Cisticolas and Allies),Indian Subcontinent,Forest,Least Concern,,West_Bengal
+386,Yellow-bellied Prinia,Prinia flaviventris,Low,Passeriformes,Cisticolidae (Cisticolas and Allies),Non-endemic,Wetland,Least Concern,,West_Bengal
+387,Ashy Prinia,Prinia socialis,Low,Passeriformes,Cisticolidae (Cisticolas and Allies),Indian Subcontinent,Non-specialized,Least Concern,,West_Bengal
+388,Plain Prinia,Prinia inornata,Low,Passeriformes,Cisticolidae (Cisticolas and Allies),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+389,Zitting Cisticola,Cisticola juncidis,Low,Passeriformes,Cisticolidae (Cisticolas and Allies),Non-endemic,Open Habitat,Least Concern,,West_Bengal
+390,Golden-headed Cisticola,Cisticola exilis,Moderate,Passeriformes,Cisticolidae (Cisticolas and Allies),Non-endemic,Grassland,Least Concern,,West_Bengal
+391,Thick-billed Warbler,Arundinax aedon,Moderate,Passeriformes,Acrocephalidae (Reed Warblers and Allies),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+392,Booted Warbler,Iduna caligata,Low,Passeriformes,Acrocephalidae (Reed Warblers and Allies),Non-endemic,Open Habitat,Least Concern,,West_Bengal
+393,Paddyfield Warbler,Acrocephalus agricola,Low,Passeriformes,Acrocephalidae (Reed Warblers and Allies),Non-endemic,Wetland,Least Concern,,West_Bengal
+394,Blyth's Reed Warbler,Acrocephalus dumetorum,Low,Passeriformes,Acrocephalidae (Reed Warblers and Allies),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+395,Clamorous Reed Warbler,Acrocephalus stentoreus,Low,Passeriformes,Acrocephalidae (Reed Warblers and Allies),Non-endemic,Wetland,Least Concern,,West_Bengal
+396,Rusty-rumped Warbler,Helopsaltes certhiola,Moderate,Passeriformes,Locustellidae (Grassbirds and Allies),Non-endemic,Wetland,Least Concern,,West_Bengal
+397,Bristled Grassbird,Schoenicola striatus,High,Passeriformes,Locustellidae (Grassbirds and Allies),Indian Subcontinent,Wetland,Vulnerable,,West_Bengal
+398,Striated Grassbird,Megalurus palustris,Low,Passeriformes,Locustellidae (Grassbirds and Allies),Non-endemic,Wetland,Least Concern,,West_Bengal
+399,Scaly-breasted Wren Babbler,Pnoepyga albiventer,Low,Passeriformes,Pnoepygidae (Cupwings),Non-endemic,Forest,Least Concern,,West_Bengal
+400,Pygmy Wren Babbler,Pnoepyga pusilla,Low,Passeriformes,Pnoepygidae (Cupwings),Non-endemic,Forest,Least Concern,,West_Bengal
+401,Grey-throated Martin,Riparia chinensis,Moderate,Passeriformes,Hirundinidae (Swallows),Non-endemic,Wetland,Least Concern,,West_Bengal
+402,Sand Martin,Riparia riparia,Low,Passeriformes,Hirundinidae (Swallows),Non-endemic,Wetland,Least Concern,,West_Bengal
+403,Eurasian Crag Martin,Ptyonoprogne rupestris,High,Passeriformes,Hirundinidae (Swallows),Non-endemic,Alpine & Cold Desert,Least Concern,,West_Bengal
+404,Dusky Crag Martin,Ptyonoprogne concolor,Moderate,Passeriformes,Hirundinidae (Swallows),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+405,Barn Swallow,Hirundo rustica,Moderate,Passeriformes,Hirundinidae (Swallows),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+406,Wire-tailed Swallow,Hirundo smithii,Low,Passeriformes,Hirundinidae (Swallows),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+407,Red-rumped Swallow,Cecropis daurica,Low,Passeriformes,Hirundinidae (Swallows),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+408,Streak-throated Swallow,Petrochelidon fluvicola,Low,Passeriformes,Hirundinidae (Swallows),Non-endemic,Open Habitat,Least Concern,,West_Bengal
+409,Asian House Martin,Delichon dasypus,Moderate,Passeriformes,Hirundinidae (Swallows),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+410,Nepal House Martin,Delichon nipalense,Low,Passeriformes,Hirundinidae (Swallows),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+411,Black-crested Bulbul,Rubigula flaviventris,Low,Passeriformes,Pycnonotidae (Bulbuls),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+412,Striated Bulbul,Alcurus striatus,Moderate,Passeriformes,Pycnonotidae (Bulbuls),Non-endemic,Forest,Least Concern,,West_Bengal
+413,Red-vented Bulbul,Pycnonotus cafer,Low,Passeriformes,Pycnonotidae (Bulbuls),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+414,Red-whiskered Bulbul,Pycnonotus jocosus,Low,Passeriformes,Pycnonotidae (Bulbuls),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+415,Himalayan Bulbul,Pycnonotus leucogenys,Low,Passeriformes,Pycnonotidae (Bulbuls),Himalayas,Non-specialized,Least Concern,,West_Bengal
+416,White-browed Bulbul,Pycnonotus luteolus,Low,Passeriformes,Pycnonotidae (Bulbuls),Indian Subcontinent,Forest & Plantation,Least Concern,,West_Bengal
+417,White-throated Bulbul,Alophoixus flaveolus,Low,Passeriformes,Pycnonotidae (Bulbuls),Non-endemic,Forest,Least Concern,,West_Bengal
+418,Black Bulbul,Hypsipetes leucocephalus,Low,Passeriformes,Pycnonotidae (Bulbuls),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+419,Ashy Bulbul,Hemixos flavala,Low,Passeriformes,Pycnonotidae (Bulbuls),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+420,Mountain Bulbul,Ixos mcclellandii,Moderate,Passeriformes,Pycnonotidae (Bulbuls),Non-endemic,Forest,Least Concern,,West_Bengal
+421,Ashy-throated Warbler,Phylloscopus maculipennis,Moderate,Passeriformes,Phylloscopidae (Leaf Warblers),Non-endemic,Forest,Least Concern,,West_Bengal
+422,Buff-barred Warbler,Phylloscopus pulcher,Low,Passeriformes,Phylloscopidae (Leaf Warblers),Non-endemic,Forest,Least Concern,,West_Bengal
+423,Yellow-browed Warbler,Phylloscopus inornatus,Low,Passeriformes,Phylloscopidae (Leaf Warblers),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+424,Hume's Warbler,Phylloscopus humei,Low,Passeriformes,Phylloscopidae (Leaf Warblers),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+425,Lemon-rumped Warbler,Phylloscopus chloronotus,Moderate,Passeriformes,Phylloscopidae (Leaf Warblers),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+426,Sulphur-bellied Warbler,Phylloscopus griseolus,High,Passeriformes,Phylloscopidae (Leaf Warblers),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+427,Tickell's Leaf Warbler,Phylloscopus affinis,Low,Passeriformes,Phylloscopidae (Leaf Warblers),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+428,Dusky Warbler,Phylloscopus fuscatus,Low,Passeriformes,Phylloscopidae (Leaf Warblers),Non-endemic,Wetland,Least Concern,,West_Bengal
+429,Common Chiffchaff,Phylloscopus collybita,Low,Passeriformes,Phylloscopidae (Leaf Warblers),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+430,White-spectacled Warbler,Phylloscopus intermedius,Low,Passeriformes,Phylloscopidae (Leaf Warblers),Non-endemic,Forest,Least Concern,,West_Bengal
+431,Grey-cheeked Warbler,Phylloscopus poliogenys,Low,Passeriformes,Phylloscopidae (Leaf Warblers),Non-endemic,Forest,Least Concern,,West_Bengal
+432,Green-crowned Warbler,Phylloscopus burkii,Moderate,Passeriformes,Phylloscopidae (Leaf Warblers),Non-endemic,Forest,Least Concern,,West_Bengal
+433,Whistler's Warbler,Phylloscopus whistleri,Low,Passeriformes,Phylloscopidae (Leaf Warblers),Non-endemic,Forest,Least Concern,,West_Bengal
+434,Greenish Warbler,Phylloscopus trochiloides,Low,Passeriformes,Phylloscopidae (Leaf Warblers),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+435,Large-billed Leaf Warbler,Phylloscopus magnirostris,Moderate,Passeriformes,Phylloscopidae (Leaf Warblers),Non-endemic,Forest,Least Concern,,West_Bengal
+436,Chestnut-crowned Warbler,Phylloscopus castaniceps,Low,Passeriformes,Phylloscopidae (Leaf Warblers),Non-endemic,Forest,Least Concern,,West_Bengal
+437,Yellow-vented Warbler,Phylloscopus cantator,Low,Passeriformes,Phylloscopidae (Leaf Warblers),Eastern Himalayas,Forest,Least Concern,,West_Bengal
+438,Western Crowned Warbler,Phylloscopus occipitalis,Moderate,Passeriformes,Phylloscopidae (Leaf Warblers),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+439,Blyth's Leaf Warbler,Phylloscopus reguloides,Low,Passeriformes,Phylloscopidae (Leaf Warblers),Non-endemic,Forest,Least Concern,,West_Bengal
+440,Grey-hooded Warbler,Phylloscopus xanthoschistos,Low,Passeriformes,Phylloscopidae (Leaf Warblers),Himalayas,Forest & Plantation,Least Concern,,West_Bengal
+441,Grey-bellied Tesia,Tesia cyaniventer,Low,Passeriformes,Scotocercidae (Bush Warblers and Allies),Non-endemic,Forest,Least Concern,,West_Bengal
+442,Slaty-bellied Tesia,Tesia olivea,Low,Passeriformes,Scotocercidae (Bush Warblers and Allies),Non-endemic,Forest,Least Concern,,West_Bengal
+443,Grey-sided Bush Warbler,Cettia brunnifrons,Low,Passeriformes,Scotocercidae (Bush Warblers and Allies),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+444,Chestnut-headed Tesia,Cettia castaneocoronata,Low,Passeriformes,Scotocercidae (Bush Warblers and Allies),Non-endemic,Forest,Least Concern,,West_Bengal
+445,Yellow-bellied Warbler,Abroscopus superciliaris,Low,Passeriformes,Scotocercidae (Bush Warblers and Allies),Non-endemic,Forest,Least Concern,,West_Bengal
+446,Black-faced Warbler,Abroscopus schisticeps,Low,Passeriformes,Scotocercidae (Bush Warblers and Allies),Non-endemic,Forest,Least Concern,,West_Bengal
+447,Mountain Tailorbird,Phyllergates cucullatus,Low,Passeriformes,Scotocercidae (Bush Warblers and Allies),Non-endemic,Forest,Least Concern,,West_Bengal
+448,Broad-billed Warbler,Tickellia hodgsoni,Moderate,Passeriformes,Scotocercidae (Bush Warblers and Allies),Eastern Himalayas,Forest,Least Concern,,West_Bengal
+449,Brownish-flanked Bush Warbler,Horornis fortipes,Low,Passeriformes,Scotocercidae (Bush Warblers and Allies),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+450,Hume's Bush Warbler,Horornis brunnescens,Moderate,Passeriformes,Scotocercidae (Bush Warblers and Allies),Himalayas,Forest,Least Concern,,West_Bengal
+451,Aberrant Bush Warbler,Horornis flavolivaceus,Low,Passeriformes,Scotocercidae (Bush Warblers and Allies),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+452,Black-throated Tit,Aegithalos concinnus,Low,Passeriformes,Aegithalidae (Long-tailed Tits),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+453,Lesser Whitethroat,Curruca curruca,Low,Passeriformes,"Sylviidae (Sylviid Warblers, Parrotbills, and Allies)",Non-endemic,Non-specialized,Least Concern,,West_Bengal
+454,Fire-tailed Myzornis,Myzornis pyrrhoura,Moderate,Passeriformes,"Sylviidae (Sylviid Warblers, Parrotbills, and Allies)",Himalayas,Forest,Least Concern,,West_Bengal
+455,Golden-breasted Fulvetta,Lioparus chrysotis,Moderate,Passeriformes,"Sylviidae (Sylviid Warblers, Parrotbills, and Allies)",Non-endemic,Forest,Least Concern,,West_Bengal
+456,Yellow-eyed Babbler,Chrysomma sinense,Low,Passeriformes,"Sylviidae (Sylviid Warblers, Parrotbills, and Allies)",Non-endemic,Non-specialized,Least Concern,,West_Bengal
+457,Jerdon's Babbler,Chrysomma altirostre,High,Passeriformes,"Sylviidae (Sylviid Warblers, Parrotbills, and Allies)",Non-endemic,Wetland,Vulnerable,,West_Bengal
+458,White-browed Fulvetta,Fulvetta vinipectus,Moderate,Passeriformes,"Sylviidae (Sylviid Warblers, Parrotbills, and Allies)",Non-endemic,Forest,Least Concern,,West_Bengal
+459,Great Parrotbill,Conostoma aemodium,High,Passeriformes,"Sylviidae (Sylviid Warblers, Parrotbills, and Allies)",Non-endemic,Forest,Least Concern,,West_Bengal
+460,Brown Parrotbill,Cholornis unicolor,Moderate,Passeriformes,"Sylviidae (Sylviid Warblers, Parrotbills, and Allies)",Non-endemic,Forest,Least Concern,,West_Bengal
+461,Grey-headed Parrotbill,Psittiparus gularis,Moderate,Passeriformes,"Sylviidae (Sylviid Warblers, Parrotbills, and Allies)",Non-endemic,Forest,Least Concern,,West_Bengal
+462,White-breasted Parrotbill,Psittiparus ruficeps,Moderate,Passeriformes,"Sylviidae (Sylviid Warblers, Parrotbills, and Allies)",Eastern Himalayas,Forest,Least Concern,,West_Bengal
+463,Fulvous Parrotbill,Suthora fulvifrons,High,Passeriformes,"Sylviidae (Sylviid Warblers, Parrotbills, and Allies)",Non-endemic,Forest,Least Concern,,West_Bengal
+464,Black-throated Parrotbill,Suthora nipalensis,Moderate,Passeriformes,"Sylviidae (Sylviid Warblers, Parrotbills, and Allies)",Non-endemic,Forest,Least Concern,,West_Bengal
+465,Striated Yuhina,Staphida castaniceps,Low,Passeriformes,"Zosteropidae (White-eyes, Yuhinas, and Allies)",Non-endemic,Forest,Least Concern,,West_Bengal
+466,Black-chinned Yuhina,Yuhina nigrimenta,Low,Passeriformes,"Zosteropidae (White-eyes, Yuhinas, and Allies)",Non-endemic,Forest,Least Concern,,West_Bengal
+467,Whiskered Yuhina,Yuhina flavicollis,Low,Passeriformes,"Zosteropidae (White-eyes, Yuhinas, and Allies)",Non-endemic,Forest,Least Concern,,West_Bengal
+468,White-naped Yuhina,Yuhina bakeri,Moderate,Passeriformes,"Zosteropidae (White-eyes, Yuhinas, and Allies)",Eastern Himalayas,Forest,Least Concern,,West_Bengal
+469,Stripe-throated Yuhina,Yuhina gularis,Moderate,Passeriformes,"Zosteropidae (White-eyes, Yuhinas, and Allies)",Non-endemic,Forest,Least Concern,,West_Bengal
+470,Rufous-vented Yuhina,Yuhina occipitalis,Moderate,Passeriformes,"Zosteropidae (White-eyes, Yuhinas, and Allies)",Eastern Himalayas,Forest,Least Concern,,West_Bengal
+471,Indian White-eye,Zosterops palpebrosus,Low,Passeriformes,"Zosteropidae (White-eyes, Yuhinas, and Allies)",Non-endemic,Non-specialized,Least Concern,,West_Bengal
+472,Chestnut-capped Babbler,Timalia pileata,Low,Passeriformes,"Timaliidae (Tree-Babblers, Scimitar-Babblers, and Allies)",Non-endemic,Grassland,Least Concern,,West_Bengal
+473,Tawny-bellied Babbler,Dumetia hyperythra,Low,Passeriformes,"Timaliidae (Tree-Babblers, Scimitar-Babblers, and Allies)",Indian Subcontinent,Non-specialized,Least Concern,,West_Bengal
+474,Pin-striped Tit Babbler,Mixornis gularis,Low,Passeriformes,"Timaliidae (Tree-Babblers, Scimitar-Babblers, and Allies)",Non-endemic,Forest,Least Concern,,West_Bengal
+475,Golden Babbler,Cyanoderma chrysaeum,Low,Passeriformes,"Timaliidae (Tree-Babblers, Scimitar-Babblers, and Allies)",Non-endemic,Forest,Least Concern,,West_Bengal
+476,Rufous-capped Babbler,Cyanoderma ruficeps,Low,Passeriformes,"Timaliidae (Tree-Babblers, Scimitar-Babblers, and Allies)",Non-endemic,Forest,Least Concern,,West_Bengal
+477,Rufous-throated Wren Babbler,Spelaeornis caudatus,Moderate,Passeriformes,"Timaliidae (Tree-Babblers, Scimitar-Babblers, and Allies)",Eastern Himalayas,Forest,Near Threatened,,West_Bengal
+478,Black-crowned Scimitar Babbler,Pomatorhinus ferruginosus,Moderate,Passeriformes,"Timaliidae (Tree-Babblers, Scimitar-Babblers, and Allies)",Eastern Himalayas,Forest,Least Concern,,West_Bengal
+479,Slender-billed Scimitar Babbler,Pomatorhinus superciliaris,Moderate,Passeriformes,"Timaliidae (Tree-Babblers, Scimitar-Babblers, and Allies)",Non-endemic,Forest,Least Concern,,West_Bengal
+480,Streak-breasted Scimitar Babbler,Pomatorhinus ruficollis,Low,Passeriformes,"Timaliidae (Tree-Babblers, Scimitar-Babblers, and Allies)",Non-endemic,Forest,Least Concern,,West_Bengal
+481,White-browed Scimitar Babbler,Pomatorhinus schisticeps,Low,Passeriformes,"Timaliidae (Tree-Babblers, Scimitar-Babblers, and Allies)",Non-endemic,Forest,Least Concern,,West_Bengal
+482,Rusty-cheeked Scimitar Babbler,Erythrogenys erythrogenys,Low,Passeriformes,"Timaliidae (Tree-Babblers, Scimitar-Babblers, and Allies)",Non-endemic,Forest,Least Concern,,West_Bengal
+483,Grey-throated Babbler,Stachyris nigriceps,Low,Passeriformes,"Timaliidae (Tree-Babblers, Scimitar-Babblers, and Allies)",Non-endemic,Forest,Least Concern,,West_Bengal
+484,Sikkim Wedge-billed Babbler,Stachyris humei,High,Passeriformes,"Timaliidae (Tree-Babblers, Scimitar-Babblers, and Allies)",Eastern Himalayas,Forest,Near Threatened,,West_Bengal
+485,Yellow-throated Fulvetta,Schoeniparus cinereus,Moderate,Passeriformes,Pellorneidae (Ground Babblers and Allies),Eastern Himalayas,Forest,Least Concern,,West_Bengal
+486,Rufous-winged Fulvetta,Schoeniparus castaneceps,Moderate,Passeriformes,Pellorneidae (Ground Babblers and Allies),Non-endemic,Forest,Least Concern,,West_Bengal
+487,Puff-throated Babbler,Pellorneum ruficeps,Low,Passeriformes,Pellorneidae (Ground Babblers and Allies),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+488,Abbott's Babbler,Malacocincla abbotti,Low,Passeriformes,Pellorneidae (Ground Babblers and Allies),Non-endemic,Forest,Least Concern,,West_Bengal
+489,Long-billed Wren Babbler,Napothera malacoptila,Moderate,Passeriformes,Pellorneidae (Ground Babblers and Allies),Eastern Himalayas,Forest,Least Concern,,West_Bengal
+490,Brown-cheeked Fulvetta,Alcippe poioicephala,Moderate,Passeriformes,Leiothrichidae (Laughingthrushes and Allies),Non-endemic,Forest,Least Concern,,West_Bengal
+491,Nepal Fulvetta,Alcippe nipalensis,Low,Passeriformes,Leiothrichidae (Laughingthrushes and Allies),Non-endemic,Forest,Least Concern,,West_Bengal
+492,Striated Laughingthrush,Grammatoptila striata,Low,Passeriformes,Leiothrichidae (Laughingthrushes and Allies),Himalayas,Forest,Least Concern,,West_Bengal
+493,Himalayan Cutia,Cutia nipalensis,Moderate,Passeriformes,Leiothrichidae (Laughingthrushes and Allies),Non-endemic,Forest,Least Concern,,West_Bengal
+494,Scaly Laughingthrush,Trochalopteron subunicolor,Moderate,Passeriformes,Leiothrichidae (Laughingthrushes and Allies),Non-endemic,Forest,Least Concern,,West_Bengal
+495,Blue-winged Laughingthrush,Trochalopteron squamatum,Moderate,Passeriformes,Leiothrichidae (Laughingthrushes and Allies),Eastern Himalayas,Forest,Least Concern,,West_Bengal
+496,Streaked Laughingthrush,Trochalopteron lineatum,Low,Passeriformes,Leiothrichidae (Laughingthrushes and Allies),Himalayas,Non-specialized,Least Concern,,West_Bengal
+497,Black-faced Laughingthrush,Trochalopteron affine,Moderate,Passeriformes,Leiothrichidae (Laughingthrushes and Allies),Non-endemic,Forest,Least Concern,,West_Bengal
+498,Chestnut-crowned Laughingthrush,Trochalopteron erythrocephalum,Low,Passeriformes,Leiothrichidae (Laughingthrushes and Allies),Himalayas,Forest,Least Concern,,West_Bengal
+499,Long-tailed Sibia,Heterophasia picaoides,Moderate,Passeriformes,Leiothrichidae (Laughingthrushes and Allies),Non-endemic,Forest,Least Concern,,West_Bengal
+500,Rufous Sibia,Heterophasia capistrata,Low,Passeriformes,Leiothrichidae (Laughingthrushes and Allies),Himalayas,Forest & Plantation,Least Concern,,West_Bengal
+501,Hoary-throated Barwing,Actinodura nipalensis,High,Passeriformes,Leiothrichidae (Laughingthrushes and Allies),Eastern Himalayas,Forest,Least Concern,,West_Bengal
+502,Blue-winged Minla,Actinodura cyanouroptera,Low,Passeriformes,Leiothrichidae (Laughingthrushes and Allies),Non-endemic,Forest,Least Concern,,West_Bengal
+503,Chestnut-tailed Minla,Actinodura strigula,Low,Passeriformes,Leiothrichidae (Laughingthrushes and Allies),Non-endemic,Forest,Least Concern,,West_Bengal
+504,Rusty-fronted Barwing,Actinodura egertoni,Low,Passeriformes,Leiothrichidae (Laughingthrushes and Allies),Eastern Himalayas,Forest,Least Concern,,West_Bengal
+505,Red-billed Leiothrix,Leiothrix lutea,Low,Passeriformes,Leiothrichidae (Laughingthrushes and Allies),Non-endemic,Forest,Least Concern,Appendix II,West_Bengal
+506,Silver-eared Mesia,Leiothrix argentauris,Low,Passeriformes,Leiothrichidae (Laughingthrushes and Allies),Non-endemic,Forest,Least Concern,Appendix II,West_Bengal
+507,Red-tailed Minla,Minla ignotincta,Low,Passeriformes,Leiothrichidae (Laughingthrushes and Allies),Non-endemic,Forest,Least Concern,,West_Bengal
+508,Rufous-backed Sibia,Leioptila annectens,Moderate,Passeriformes,Leiothrichidae (Laughingthrushes and Allies),Non-endemic,Forest,Least Concern,,West_Bengal
+509,Red-faced Liocichla,Liocichla phoenicea,Low,Passeriformes,Leiothrichidae (Laughingthrushes and Allies),Non-endemic,Forest,Least Concern,,West_Bengal
+510,Slender-billed Babbler,Argya longirostris,High,Passeriformes,Leiothrichidae (Laughingthrushes and Allies),Indian Subcontinent,Wetland,Vulnerable,,West_Bengal
+511,Jungle Babbler,Argya striata,Low,Passeriformes,Leiothrichidae (Laughingthrushes and Allies),Indian Subcontinent,Non-specialized,Least Concern,,West_Bengal
+512,Common Babbler,Argya caudata,Moderate,Passeriformes,Leiothrichidae (Laughingthrushes and Allies),Indian Subcontinent,Open Habitat,Least Concern,,West_Bengal
+513,Striated Babbler,Argya earlei,Low,Passeriformes,Leiothrichidae (Laughingthrushes and Allies),Non-endemic,Wetland,Least Concern,,West_Bengal
+514,Lesser Necklaced Laughingthrush,Garrulax monileger,Low,Passeriformes,Leiothrichidae (Laughingthrushes and Allies),Non-endemic,Forest,Least Concern,,West_Bengal
+515,White-crested Laughingthrush,Garrulax leucolophus,Low,Passeriformes,Leiothrichidae (Laughingthrushes and Allies),Non-endemic,Forest,Least Concern,,West_Bengal
+516,Rufous-chinned Laughingthrush,Ianthocincla rufogularis,Moderate,Passeriformes,Leiothrichidae (Laughingthrushes and Allies),Himalayas,Forest,Least Concern,,West_Bengal
+517,Spotted Laughingthrush,Ianthocincla ocellata,Moderate,Passeriformes,Leiothrichidae (Laughingthrushes and Allies),Eastern Himalayas,Forest,Least Concern,,West_Bengal
+518,Rufous-necked Laughingthrush,Pterorhinus ruficollis,Moderate,Passeriformes,Leiothrichidae (Laughingthrushes and Allies),Non-endemic,Grassland & Scrub,Least Concern,,West_Bengal
+519,Greater Necklaced Laughingthrush,Pterorhinus pectoralis,Low,Passeriformes,Leiothrichidae (Laughingthrushes and Allies),Non-endemic,Forest,Least Concern,,West_Bengal
+520,White-throated Laughingthrush,Pterorhinus albogularis,Low,Passeriformes,Leiothrichidae (Laughingthrushes and Allies),Non-endemic,Forest,Least Concern,,West_Bengal
+521,Grey-sided Laughingthrush,Pterorhinus caerulatus,Moderate,Passeriformes,Leiothrichidae (Laughingthrushes and Allies),Eastern Himalayas,Forest,Least Concern,,West_Bengal
+522,Goldcrest,Regulus regulus,Low,Passeriformes,Regulidae (Kinglets),Non-endemic,Forest,Least Concern,,West_Bengal
+523,Wallcreeper,Tichodroma muraria,High,Passeriformes,Tichodromidae (Wallcreeper),Non-endemic,Open Habitat,Least Concern,,West_Bengal
+524,Indian Nuthatch,Sitta castanea,Moderate,Passeriformes,Sittidae (Nuthatches),Indian Subcontinent,Forest & Plantation,Least Concern,,West_Bengal
+525,Chestnut-bellied Nuthatch,Sitta cinnamoventris,Low,Passeriformes,Sittidae (Nuthatches),Non-endemic,Forest,Least Concern,,West_Bengal
+526,White-tailed Nuthatch,Sitta himalayensis,Low,Passeriformes,Sittidae (Nuthatches),Himalayas,Forest,Least Concern,,West_Bengal
+527,Velvet-fronted Nuthatch,Sitta frontalis,Moderate,Passeriformes,Sittidae (Nuthatches),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+528,Beautiful Nuthatch,Sitta formosa,High,Passeriformes,Sittidae (Nuthatches),Non-endemic,Forest,Vulnerable,,West_Bengal
+529,Hodgson's Treecreeper,Certhia hodgsoni,Low,Passeriformes,Certhiidae (Treecreepers),Non-endemic,Forest,Least Concern,,West_Bengal
+530,Rusty-flanked Treecreeper,Certhia nipalensis,Moderate,Passeriformes,Certhiidae (Treecreepers),Himalayas,Forest,Least Concern,,West_Bengal
+531,Sikkim Treecreeper,Certhia discolor,Moderate,Passeriformes,Certhiidae (Treecreepers),Himalayas,Forest,Least Concern,,West_Bengal
+532,Eurasian Wren,Troglodytes troglodytes,Low,Passeriformes,Troglodytidae (Wrens),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+533,Spotted Elachura,Elachura formosa,Low,Passeriformes,Elachuridae (Spotted Elachura),Non-endemic,Forest,Least Concern,,West_Bengal
+534,Brown Dipper,Cinclus pallasii,High,Passeriformes,Cinclidae (Dippers),Non-endemic,Wetland,Least Concern,,West_Bengal
+535,Common Hill Myna,Gracula religiosa,Low,Passeriformes,Sturnidae (Starlings),Non-endemic,Forest & Plantation,Least Concern,Appendix II,West_Bengal
+536,Common Starling,Sturnus vulgaris,Moderate,Passeriformes,Sturnidae (Starlings),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+537,Rosy Starling,Pastor roseus,Moderate,Passeriformes,Sturnidae (Starlings),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+538,Asian Pied Starling,Gracupica contra,Low,Passeriformes,Sturnidae (Starlings),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+539,Brahminy Starling,Sturnia pagodarum,Low,Passeriformes,Sturnidae (Starlings),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+540,Chestnut-tailed Starling,Sturnia malabarica,Low,Passeriformes,Sturnidae (Starlings),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+541,Common Myna,Acridotheres tristis,Low,Passeriformes,Sturnidae (Starlings),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+542,Bank Myna,Acridotheres ginginianus,High,Passeriformes,Sturnidae (Starlings),Indian Subcontinent,Non-specialized,Least Concern,,West_Bengal
+543,Jungle Myna,Acridotheres fuscus,Low,Passeriformes,Sturnidae (Starlings),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+544,Great Myna,Acridotheres grandis,Low,Passeriformes,Sturnidae (Starlings),Non-endemic,Open Habitat,Least Concern,,West_Bengal
+545,Spot-winged Starling,Saroglossa spilopterus,High,Passeriformes,Sturnidae (Starlings),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+546,Alpine Thrush,Zoothera mollissima,Low,Passeriformes,Turdidae (Thrushes and Allies),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+547,Himalayan Thrush,Zoothera salimalii,Moderate,Passeriformes,Turdidae (Thrushes and Allies),Non-endemic,Forest,Least Concern,,West_Bengal
+548,Dark-sided Thrush,Zoothera marginata,Moderate,Passeriformes,Turdidae (Thrushes and Allies),Himalayas,Forest,Least Concern,,West_Bengal
+549,Long-billed Thrush,Zoothera monticola,Moderate,Passeriformes,Turdidae (Thrushes and Allies),Himalayas,Forest,Least Concern,,West_Bengal
+550,Scaly Thrush,Zoothera dauma,Low,Passeriformes,Turdidae (Thrushes and Allies),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+551,Purple Cochoa,Cochoa purpurea,Moderate,Passeriformes,Turdidae (Thrushes and Allies),Non-endemic,Forest,Least Concern,,West_Bengal
+552,Green Cochoa,Cochoa viridis,Moderate,Passeriformes,Turdidae (Thrushes and Allies),Non-endemic,Forest,Least Concern,,West_Bengal
+553,Pied Thrush,Geokichla wardii,High,Passeriformes,Turdidae (Thrushes and Allies),Indian Subcontinent,Forest & Plantation,Least Concern,,West_Bengal
+554,Orange-headed Thrush,Geokichla citrina,Moderate,Passeriformes,Turdidae (Thrushes and Allies),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+555,Mistle Thrush,Turdus viscivorus,Low,Passeriformes,Turdidae (Thrushes and Allies),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+556,Grey-winged Blackbird,Turdus boulboul,Low,Passeriformes,Turdidae (Thrushes and Allies),Non-endemic,Forest,Least Concern,,West_Bengal
+557,Tickell's Thrush,Turdus unicolor,Low,Passeriformes,Turdidae (Thrushes and Allies),Indian Subcontinent,Forest & Plantation,Least Concern,,West_Bengal
+558,Black-breasted Thrush,Turdus dissimilis,Moderate,Passeriformes,Turdidae (Thrushes and Allies),Non-endemic,Forest,Least Concern,,West_Bengal
+559,White-collared Blackbird,Turdus albocinctus,Moderate,Passeriformes,Turdidae (Thrushes and Allies),Himalayas,Forest,Least Concern,,West_Bengal
+560,Chestnut Thrush,Turdus rubrocanus,Low,Passeriformes,Turdidae (Thrushes and Allies),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+561,Black-throated Thrush,Turdus atrogularis,Low,Passeriformes,Turdidae (Thrushes and Allies),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+562,Red-throated Thrush,Turdus ruficollis,Moderate,Passeriformes,Turdidae (Thrushes and Allies),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+563,Dark-sided Flycatcher,Muscicapa sibirica,Low,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Forest,Least Concern,,West_Bengal
+564,Asian Brown Flycatcher,Muscicapa dauurica,Low,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+565,Brown-breasted Flycatcher,Muscicapa muttui,Low,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+566,Indian Robin,Copsychus fulicatus,Low,Passeriformes,Muscicapidae (Old World Flycatchers),Indian Subcontinent,Non-specialized,Least Concern,,West_Bengal
+567,Oriental Magpie Robin,Copsychus saularis,Low,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+568,White-rumped Shama,Copsychus malabaricus,Low,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Forest,Least Concern,Appendix I,West_Bengal
+569,White-gorgeted Flycatcher,Anthipes monileger,Moderate,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Forest,Least Concern,,West_Bengal
+570,Pale-chinned Flycatcher,Cyornis poliogenys,Low,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Forest,Least Concern,,West_Bengal
+571,Blue-throated Flycatcher,Cyornis rubeculoides,Low,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+572,Tickell's Blue Flycatcher,Cyornis tickelliae,Low,Passeriformes,Muscicapidae (Old World Flycatchers),Indian Subcontinent,Forest & Plantation,Least Concern,,West_Bengal
+573,Large Niltava,Niltava grandis,Low,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Forest,Least Concern,,West_Bengal
+574,Small Niltava,Niltava macgrigoriae,Low,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+575,Rufous-bellied Niltava,Niltava sundara,Low,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Forest,Least Concern,,West_Bengal
+576,Verditer Flycatcher,Eumyias thalassinus,Low,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+577,Rusty-bellied Shortwing,Brachypteryx hyperythra,Moderate,Passeriformes,Muscicapidae (Old World Flycatchers),Eastern Himalayas,Forest,Near Threatened,,West_Bengal
+578,Gould's Shortwing,Heteroxenicus stellatus,Moderate,Passeriformes,Muscicapidae (Old World Flycatchers),Eastern Himalayas,Forest,Least Concern,,West_Bengal
+579,Lesser Shortwing,Brachypteryx leucophris,Low,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Forest,Least Concern,,West_Bengal
+580,Himalayan Shortwing,Brachypteryx cruralis,Moderate,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Forest,Least Concern,,West_Bengal
+581,Indian Blue Robin,Larvivora brunnea,Moderate,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+582,White-bellied Redstart,Luscinia phaenicuroides,Moderate,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Alpine & Cold Desert,Least Concern,,West_Bengal
+583,Bluethroat,Luscinia svecica,Moderate,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Wetland,Least Concern,,West_Bengal
+584,Blue Whistling Thrush,Myophonus caeruleus,Low,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+585,Little Forktail,Enicurus scouleri,Moderate,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Open Habitat,Least Concern,,West_Bengal
+586,Spotted Forktail,Enicurus maculatus,Low,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+587,Black-backed Forktail,Enicurus immaculatus,Low,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Forest,Least Concern,,West_Bengal
+588,Slaty-backed Forktail,Enicurus schistaceus,Moderate,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Forest,Least Concern,,West_Bengal
+589,Siberian Rubythroat,Calliope calliope,Low,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Wetland,Least Concern,,West_Bengal
+590,White-tailed Robin,Myiomela leucura,Low,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Forest,Least Concern,,West_Bengal
+591,Blue-fronted Robin,Cinclidium frontale,Moderate,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Forest,Least Concern,,West_Bengal
+592,Himalayan Bush Robin,Tarsiger rufilatus,Low,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Forest,Least Concern,,West_Bengal
+593,Rufous-breasted Bush Robin,Tarsiger hyperythrus,Moderate,Passeriformes,Muscicapidae (Old World Flycatchers),Himalayas,Forest,Least Concern,,West_Bengal
+594,White-browed Bush Robin,Tarsiger indicus,Moderate,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Forest,Least Concern,,West_Bengal
+595,Golden Bush Robin,Tarsiger chrysaeus,Low,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Alpine & Cold Desert,Least Concern,,West_Bengal
+596,Slaty-blue Flycatcher,Ficedula tricolor,Low,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+597,Snowy-browed Flycatcher,Ficedula hyperythra,Low,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Forest,Least Concern,,West_Bengal
+598,Pygmy Blue Flycatcher,Ficedula hodgsoni,Low,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Forest,Least Concern,,West_Bengal
+599,Rufous-gorgeted Flycatcher,Ficedula strophiata,High,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+600,Sapphire Flycatcher,Ficedula sapphira,Moderate,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+601,Little Pied Flycatcher,Ficedula westermanni,Moderate,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+602,Ultramarine Flycatcher,Ficedula superciliaris,Low,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+603,Rusty-tailed Flycatcher,Ficedula ruficauda,Moderate,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Forest,Least Concern,,West_Bengal
+604,Red-breasted Flycatcher,Ficedula parva,Low,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+605,Blue-fronted Redstart,Phoenicurus frontalis,Moderate,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+606,Plumbeous Water Redstart,Phoenicurus fuliginosus,High,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Wetland,Least Concern,,West_Bengal
+607,White-capped Redstart,Phoenicurus leucocephalus,Moderate,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+608,Blue-capped Redstart,Phoenicurus coeruleocephala,Moderate,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+609,Hodgson's Redstart,Phoenicurus hodgsoni,Moderate,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+610,Black Redstart,Phoenicurus ochruros,Moderate,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+611,Chestnut-bellied Rock Thrush,Monticola rufiventris,Moderate,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+612,Blue-capped Rock Thrush,Monticola cinclorhyncha,High,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Forest,Least Concern,,West_Bengal
+613,Blue Rock Thrush,Monticola solitarius,High,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+614,Siberian Stonechat,Saxicola maurus,Low,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Open Habitat,Least Concern,,West_Bengal
+615,White-tailed Stonechat,Saxicola leucurus,Low,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Wetland,Least Concern,,West_Bengal
+616,Pied Bushchat,Saxicola caprata,Low,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Open Habitat,Least Concern,,West_Bengal
+617,Grey Bushchat,Saxicola ferreus,Low,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+618,Desert Wheatear,Oenanthe deserti,High,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Open Habitat,Least Concern,,West_Bengal
+619,Brown Rock Chat,Oenanthe fusca,Low,Passeriformes,Muscicapidae (Old World Flycatchers),Indian Subcontinent,Non-specialized,Least Concern,,West_Bengal
+620,Thick-billed Flowerpecker,Dicaeum agile,High,Passeriformes,Dicaeidae (Flowerpeckers),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+621,Pale-billed Flowerpecker,Dicaeum erythrorhynchos,Low,Passeriformes,Dicaeidae (Flowerpeckers),Indian Subcontinent,Non-specialized,Least Concern,,West_Bengal
+622,Plain Flowerpecker,Dicaeum minullum,Low,Passeriformes,Dicaeidae (Flowerpeckers),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+623,Fire-breasted Flowerpecker,Dicaeum ignipectus,Low,Passeriformes,Dicaeidae (Flowerpeckers),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+624,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Low,Passeriformes,Dicaeidae (Flowerpeckers),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+625,Ruby-cheeked Sunbird,Chalcoparia singalensis,Low,Passeriformes,Nectariniidae (Sunbirds and Spiderhunters),Non-endemic,Forest,Least Concern,,West_Bengal
+626,Purple-rumped Sunbird,Leptocoma zeylonica,Low,Passeriformes,Nectariniidae (Sunbirds and Spiderhunters),Indian Subcontinent,Non-specialized,Least Concern,,West_Bengal
+627,Purple Sunbird,Cinnyris asiaticus,Low,Passeriformes,Nectariniidae (Sunbirds and Spiderhunters),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+628,Loten's Sunbird,Cinnyris lotenius,Low,Passeriformes,Nectariniidae (Sunbirds and Spiderhunters),Indian Subcontinent,Forest & Plantation,Least Concern,,West_Bengal
+629,Fire-tailed Sunbird,Aethopyga ignicauda,Low,Passeriformes,Nectariniidae (Sunbirds and Spiderhunters),Non-endemic,Forest,Least Concern,,West_Bengal
+630,Black-throated Sunbird,Aethopyga saturata,Low,Passeriformes,Nectariniidae (Sunbirds and Spiderhunters),Non-endemic,Forest,Least Concern,,West_Bengal
+631,Mrs Gould's Sunbird,Aethopyga gouldiae,Low,Passeriformes,Nectariniidae (Sunbirds and Spiderhunters),Non-endemic,Forest,Least Concern,,West_Bengal
+632,Green-tailed Sunbird,Aethopyga nipalensis,Low,Passeriformes,Nectariniidae (Sunbirds and Spiderhunters),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+633,Crimson Sunbird,Aethopyga siparaja,Low,Passeriformes,Nectariniidae (Sunbirds and Spiderhunters),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+634,Little Spiderhunter,Arachnothera longirostra,Moderate,Passeriformes,Nectariniidae (Sunbirds and Spiderhunters),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+635,Streaked Spiderhunter,Arachnothera magna,Low,Passeriformes,Nectariniidae (Sunbirds and Spiderhunters),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+636,Asian Fairy-bluebird,Irena puella,Moderate,Passeriformes,Irenidae (Fairy-bluebirds),Non-endemic,Forest,Least Concern,,West_Bengal
+637,Jerdon's Leafbird,Chloropsis jerdoni,Low,Passeriformes,Chloropseidae (Leafbirds),Indian Subcontinent,Forest & Plantation,Least Concern,,West_Bengal
+638,Golden-fronted Leafbird,Chloropsis aurifrons,Low,Passeriformes,Chloropseidae (Leafbirds),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+639,Orange-bellied Leafbird,Chloropsis hardwickii,Moderate,Passeriformes,Chloropseidae (Leafbirds),Non-endemic,Forest,Least Concern,,West_Bengal
+640,Streaked Weaver,Ploceus manyar,Moderate,Passeriformes,Ploceidae (Weavers and Allies),Non-endemic,Wetland,Least Concern,,West_Bengal
+641,Baya Weaver,Ploceus philippinus,Low,Passeriformes,Ploceidae (Weavers and Allies),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+642,Finn's Weaver,Ploceus megarhynchus,High,Passeriformes,Ploceidae (Weavers and Allies),Indian Subcontinent,Wetland,Endangered,,West_Bengal
+643,Black-breasted Weaver,Ploceus benghalensis,Low,Passeriformes,Ploceidae (Weavers and Allies),Indian Subcontinent,Wetland,Least Concern,,West_Bengal
+644,Indian Silverbill,Euodice malabarica,Low,Passeriformes,Estrildidae (Waxbills and Allies),Non-endemic,Open Habitat,Least Concern,,West_Bengal
+645,Scaly-breasted Munia,Lonchura punctulata,Low,Passeriformes,Estrildidae (Waxbills and Allies),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+646,White-rumped Munia,Lonchura striata,Low,Passeriformes,Estrildidae (Waxbills and Allies),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+647,Tricoloured Munia,Lonchura malacca,Low,Passeriformes,Estrildidae (Waxbills and Allies),Indian Subcontinent,Grassland & Scrub,Least Concern,,West_Bengal
+648,Red Munia,Amandava amandava,Low,Passeriformes,Estrildidae (Waxbills and Allies),Non-endemic,Grassland & Scrub,Least Concern,,West_Bengal
+649,Alpine Accentor,Prunella collaris,Low,Passeriformes,Prunellidae (Accentors),Non-endemic,Alpine & Cold Desert,Least Concern,,West_Bengal
+650,Altai Accentor,Prunella himalayana,Moderate,Passeriformes,Prunellidae (Accentors),Non-endemic,Open Habitat,Least Concern,,West_Bengal
+651,Rufous-breasted Accentor,Prunella strophiata,Moderate,Passeriformes,Prunellidae (Accentors),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+652,House Sparrow,Passer domesticus,Moderate,Passeriformes,Passeridae (Old World Sparrows),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+653,Russet Sparrow,Passer cinnamomeus,Low,Passeriformes,Passeridae (Old World Sparrows),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+654,Eurasian Tree Sparrow,Passer montanus,Low,Passeriformes,Passeridae (Old World Sparrows),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+655,Yellow-throated Sparrow,Gymnoris xanthocollis,Low,Passeriformes,Passeridae (Old World Sparrows),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+656,Forest Wagtail,Dendronanthus indicus,High,Passeriformes,Motacillidae (Wagtails and Pipits),Non-endemic,Forest & Plantation,Least Concern,,West_Bengal
+657,Grey Wagtail,Motacilla cinerea,Moderate,Passeriformes,Motacillidae (Wagtails and Pipits),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+658,Western Yellow Wagtail,Motacilla flava,Moderate,Passeriformes,Motacillidae (Wagtails and Pipits),Non-endemic,Open Habitat,Least Concern,,West_Bengal
+659,Citrine Wagtail,Motacilla citreola,Moderate,Passeriformes,Motacillidae (Wagtails and Pipits),Non-endemic,Wetland,Least Concern,,West_Bengal
+660,White-browed Wagtail,Motacilla maderaspatensis,Low,Passeriformes,Motacillidae (Wagtails and Pipits),Indian Subcontinent,Non-specialized,Least Concern,,West_Bengal
+661,White Wagtail,Motacilla alba,Moderate,Passeriformes,Motacillidae (Wagtails and Pipits),Non-endemic,Wetland,Least Concern,,West_Bengal
+662,Richard's Pipit,Anthus richardi,Low,Passeriformes,Motacillidae (Wagtails and Pipits),Non-endemic,Open Habitat,Least Concern,,West_Bengal
+663,Paddyfield Pipit,Anthus rufulus,Low,Passeriformes,Motacillidae (Wagtails and Pipits),Non-endemic,Open Habitat,Least Concern,,West_Bengal
+664,Long-billed Pipit,Anthus similis,Moderate,Passeriformes,Motacillidae (Wagtails and Pipits),Non-endemic,Grassland & Scrub,Least Concern,,West_Bengal
+665,Blyth's Pipit,Anthus godlewskii,Low,Passeriformes,Motacillidae (Wagtails and Pipits),Non-endemic,Open Habitat,Least Concern,,West_Bengal
+666,Upland Pipit,Anthus sylvanus,Low,Passeriformes,Motacillidae (Wagtails and Pipits),Non-endemic,Grassland & Scrub,Least Concern,,West_Bengal
+667,Rosy Pipit,Anthus roseatus,Low,Passeriformes,Motacillidae (Wagtails and Pipits),Non-endemic,Open Habitat,Least Concern,,West_Bengal
+668,Tree Pipit,Anthus trivialis,Moderate,Passeriformes,Motacillidae (Wagtails and Pipits),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+669,Olive-backed Pipit,Anthus hodgsoni,High,Passeriformes,Motacillidae (Wagtails and Pipits),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+670,Collared Grosbeak,Mycerobas affinis,Moderate,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Non-endemic,Forest,Least Concern,,West_Bengal
+671,Spot-winged Grosbeak,Mycerobas melanozanthos,Low,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Non-endemic,Forest,Least Concern,,West_Bengal
+672,Common Rosefinch,Carpodacus erythrinus,Moderate,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Non-endemic,Non-specialized,Least Concern,,West_Bengal
+673,Himalayan Beautiful Rosefinch,Carpodacus pulcherrimus,Moderate,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Non-endemic,Non-specialized,Least Concern,,West_Bengal
+674,Dark-rumped Rosefinch,Carpodacus edwardsii,Moderate,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Non-endemic,Forest,Least Concern,,West_Bengal
+675,Pink-browed Rosefinch,Carpodacus rodochroa,Low,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Himalayas,Non-specialized,Least Concern,,West_Bengal
+676,Crimson-browed Finch,Carpodacus subhimachalus,Moderate,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Non-endemic,Forest,Least Concern,,West_Bengal
+677,Himalayan White-browed Rosefinch,Carpodacus thura,Moderate,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Himalayas,Forest,Least Concern,,West_Bengal
+678,Brown Bullfinch,Pyrrhula nipalensis,Moderate,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Non-endemic,Forest,Least Concern,,West_Bengal
+679,Red-headed Bullfinch,Pyrrhula erythrocephala,Low,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Himalayas,Forest,Least Concern,,West_Bengal
+680,Gold-naped Finch,Pyrrhoplectes epauletta,Moderate,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Himalayas,Forest,Least Concern,,West_Bengal
+681,Spectacled Finch,Callacanthis burtoni,Moderate,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Western Himalayas,Forest,Least Concern,,West_Bengal
+682,Dark-breasted Rosefinch,Procarduelis nipalensis,Low,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Non-endemic,Forest,Least Concern,,West_Bengal
+683,Plain Mountain Finch,Leucosticte nemoricola,Moderate,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Non-endemic,Alpine & Cold Desert,Least Concern,,West_Bengal
+684,Yellow-breasted Greenfinch,Chloris spinoides,Moderate,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Himalayas,Non-specialized,Least Concern,,West_Bengal
+685,Tibetan Siskin,Spinus thibetanus,Moderate,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Non-endemic,Forest,Least Concern,,West_Bengal
+686,Crested Bunting,Emberiza lathami,Moderate,Passeriformes,Emberizidae (Old World Buntings),Non-endemic,Non-specialized,Least Concern,,West_Bengal
+687,Black-headed Bunting,Emberiza melanocephala,Low,Passeriformes,Emberizidae (Old World Buntings),Non-endemic,Open Habitat,Least Concern,,West_Bengal
+688,Chestnut-eared Bunting,Emberiza fucata,Moderate,Passeriformes,Emberizidae (Old World Buntings),Non-endemic,Grassland & Scrub,Least Concern,,West_Bengal
+689,Grey-necked Bunting,Emberiza buchanani,Moderate,Passeriformes,Emberizidae (Old World Buntings),Non-endemic,Grassland & Scrub,Least Concern,,West_Bengal
+690,Yellow-breasted Bunting,Emberiza aureola,High,Passeriformes,Emberizidae (Old World Buntings),Non-endemic,Grassland,Critically Endangered,,West_Bengal
+691,Little Bunting,Emberiza pusilla,Low,Passeriformes,Emberizidae (Old World Buntings),Non-endemic,Open Habitat,Least Concern,,West_Bengal
+692,Black-faced Bunting,Emberiza spodocephala,Moderate,Passeriformes,Emberizidae (Old World Buntings),Non-endemic,Wetland,Least Concern,,West_Bengal
