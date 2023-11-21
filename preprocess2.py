@@ -49,6 +49,9 @@ df2 = pd.read_csv(dir2)
 df3 = pd.concat([df1, df2], ignore_index=True)
 df3['source'] = 'Jammu and Kashmir'
 
+### Drop duplicates
+df3 = df3.drop_duplicates(subset='English Name')
+
 ### Save as Jammu_and_Kashmir.csv and remove Ladakh.csv
 df3.to_csv(dir1, index=False)
 os.remove(dir2)
@@ -64,7 +67,7 @@ csv_files = [file for file in os.listdir(trim_directory) if file.endswith('.csv'
 ### Loop through each CSV file
 for csv_file in csv_files:
     #set working directory
-    dir = working_directory + csv_file
+    dir = trim_directory + csv_file
     #read csv
     df = pd.read_csv(dir)
 

@@ -5621,278 +5621,45 @@
 418,Chestnut-eared Bunting,Emberiza fucata,Moderate,Passeriformes,Emberizidae (Old World Buntings),Non-endemic,Grassland & Scrub,Least Concern,,Jammu and Kashmir
 419,Rock Bunting,Emberiza cia,Low,Passeriformes,Emberizidae (Old World Buntings),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
 420,White-capped Bunting,Emberiza stewarti,Low,Passeriformes,Emberizidae (Old World Buntings),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-421,Bar-headed Goose,Anser indicus,Moderate,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-422,Greylag Goose,Anser anser,Low,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-423,Ruddy Shelduck,Tadorna ferruginea,High,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-424,Garganey,Spatula querquedula,High,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-425,Northern Shoveler,Spatula clypeata,High,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-426,Gadwall,Mareca strepera,Moderate,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-427,Eurasian Wigeon,Mareca penelope,Moderate,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-428,Indian Spot-billed Duck,Anas poecilorhyncha,Low,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-429,Mallard,Anas platyrhynchos,Low,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-430,Northern Pintail,Anas acuta,High,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-431,Common Teal,Anas crecca,High,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-432,Red-crested Pochard,Netta rufina,Low,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-433,Common Pochard,Aythya ferina,High,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Vulnerable,,Jammu and Kashmir
-434,Ferruginous Duck,Aythya nyroca,Moderate,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Near Threatened,,Jammu and Kashmir
-435,Tufted Duck,Aythya fuligula,High,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-436,Common Merganser,Mergus merganser,High,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-437,Himalayan Snowcock,Tetraogallus himalayensis,Moderate,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)",Himalayas,Alpine & Cold Desert,Least Concern,,Jammu and Kashmir
-438,Chukar Partridge,Alectoris chukar,Low,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)",Non-endemic,Open Habitat,Least Concern,,Jammu and Kashmir
-439,Little Grebe,Tachybaptus ruficollis,Low,Podicipediformes,Podicipedidae (Grebes),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-440,Great Crested Grebe,Podiceps cristatus,High,Podicipediformes,Podicipedidae (Grebes),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-441,Rock Pigeon,Columba livia,Low,Columbiformes,Columbidae (Pigeons and Doves),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-442,Hill Pigeon,Columba rupestris,Low,Columbiformes,Columbidae (Pigeons and Doves),Non-endemic,Alpine & Cold Desert,Least Concern,,Jammu and Kashmir
-443,Snow Pigeon,Columba leuconota,Moderate,Columbiformes,Columbidae (Pigeons and Doves),Non-endemic,Alpine & Cold Desert,Least Concern,,Jammu and Kashmir
-444,Speckled Wood Pigeon,Columba hodgsonii,Moderate,Columbiformes,Columbidae (Pigeons and Doves),Non-endemic,Forest,Least Concern,,Jammu and Kashmir
-445,Oriental Turtle Dove,Streptopelia orientalis,Low,Columbiformes,Columbidae (Pigeons and Doves),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-446,Eurasian Collared Dove,Streptopelia decaocto,Low,Columbiformes,Columbidae (Pigeons and Doves),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-447,Red Collared Dove,Streptopelia tranquebarica,Low,Columbiformes,Columbidae (Pigeons and Doves),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-448,Spotted Dove,Spilopelia chinensis,Low,Columbiformes,Columbidae (Pigeons and Doves),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-449,Laughing Dove,Spilopelia senegalensis,Low,Columbiformes,Columbidae (Pigeons and Doves),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-450,Yellow-footed Green Pigeon,Treron phoenicopterus,Low,Columbiformes,Columbidae (Pigeons and Doves),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-451,Asian Koel,Eudynamys scolopaceus,Low,Cuculiformes,Cuculidae (Cuckoos),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-452,Grey-bellied Cuckoo,Cacomantis passerinus,Low,Cuculiformes,Cuculidae (Cuckoos),Indian Subcontinent,Non-specialized,Least Concern,,Jammu and Kashmir
-453,Himalayan Cuckoo,Cuculus saturatus,Low,Cuculiformes,Cuculidae (Cuckoos),Non-endemic,Forest,Least Concern,,Jammu and Kashmir
-454,Common Cuckoo,Cuculus canorus,Low,Cuculiformes,Cuculidae (Cuckoos),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-455,Alpine Swift,Tachymarptis melba,Low,Caprimulgiformes,Apodidae (Swifts),Non-endemic,Forest,Least Concern,,Jammu and Kashmir
-456,Blyth's Swift,Apus leuconyx,Moderate,Caprimulgiformes,Apodidae (Swifts),Non-endemic,Forest,Not Recognised,,Jammu and Kashmir
-457,Little Swift,Apus affinis,Low,Caprimulgiformes,Apodidae (Swifts),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-458,Common Moorhen,Gallinula chloropus,Low,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)",Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-459,Eurasian Coot,Fulica atra,Low,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)",Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-460,Grey-headed Swamphen,Porphyrio poliocephalus,Low,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)",Non-endemic,Wetland,Not Recognised,,Jammu and Kashmir
-461,White-breasted Waterhen,Amaurornis phoenicurus,Low,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)",Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-462,Baillon's Crake,Zapornia pusilla,Moderate,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)",Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-463,Demoiselle Crane,Grus virgo,High,Gruiformes,Gruidae (Cranes),Non-endemic,Open Habitat,Least Concern,Appendix II,Jammu and Kashmir
-464,Black-necked Crane,Grus nigricollis,Moderate,Gruiformes,Gruidae (Cranes),Non-endemic,Wetland,Near Threatened,Appendix I,Jammu and Kashmir
-465,Black-winged Stilt,Himantopus himantopus,Low,Charadriiformes,Recurvirostridae (Stilts and Avocets),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-466,Pied Avocet,Recurvirostra avosetta,High,Charadriiformes,Recurvirostridae (Stilts and Avocets),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-467,Ibisbill,Ibidorhyncha struthersii,Moderate,Charadriiformes,Ibidorhynchidae (Ibisbill),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-468,Pacific Golden Plover,Pluvialis fulva,Moderate,Charadriiformes,Charadriidae (Plovers and Lapwings),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-469,Northern Lapwing,Vanellus vanellus,Moderate,Charadriiformes,Charadriidae (Plovers and Lapwings),Non-endemic,Wetland,Near Threatened,,Jammu and Kashmir
-470,Red-wattled Lapwing,Vanellus indicus,Low,Charadriiformes,Charadriidae (Plovers and Lapwings),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-471,Lesser Sand Plover,Charadrius mongolus,High,Charadriiformes,Charadriidae (Plovers and Lapwings),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-472,Kentish Plover,Charadrius alexandrinus,High,Charadriiformes,Charadriidae (Plovers and Lapwings),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-473,Little Ringed Plover,Charadrius dubius,High,Charadriiformes,Charadriidae (Plovers and Lapwings),Non-endemic,Open Habitat,Least Concern,,Jammu and Kashmir
-474,Greater Painted-snipe,Rostratula benghalensis,Low,Charadriiformes,Rostratulidae (Painted-Snipes),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-475,Pheasant-tailed Jacana,Hydrophasianus chirurgus,Moderate,Charadriiformes,Jacanidae (Jacanas),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-476,Whimbrel,Numenius phaeopus,Moderate,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-477,Eurasian Curlew,Numenius arquata,High,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Near Threatened,,Jammu and Kashmir
-478,Black-tailed Godwit,Limosa limosa,High,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Near Threatened,,Jammu and Kashmir
-479,Ruff,Calidris pugnax,High,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-480,Broad-billed Sandpiper,Calidris falcinellus,Moderate,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-481,Curlew Sandpiper,Calidris ferruginea,High,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Near Threatened,,Jammu and Kashmir
-482,Temminck's Stint,Calidris temminckii,Moderate,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-483,Sanderling,Calidris alba,High,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-484,Little Stint,Calidris minuta,High,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-485,Common Snipe,Gallinago gallinago,Low,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-486,Pintail Snipe,Gallinago stenura,High,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-487,Terek Sandpiper,Xenus cinereus,High,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-488,Common Sandpiper,Actitis hypoleucos,Moderate,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-489,Green Sandpiper,Tringa ochropus,Low,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-490,Spotted Redshank,Tringa erythropus,High,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-491,Common Greenshank,Tringa nebularia,High,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-492,Marsh Sandpiper,Tringa stagnatilis,High,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-493,Wood Sandpiper,Tringa glareola,Moderate,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-494,Common Redshank,Tringa totanus,High,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-495,Black-headed Gull,Chroicocephalus ridibundus,High,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-496,Brown-headed Gull,Chroicocephalus brunnicephalus,High,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-497,Pallas's Gull,Ichthyaetus ichthyaetus,Moderate,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-498,Little Tern,Sternula albifrons,High,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-499,Gull-billed Tern,Gelochelidon nilotica,High,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-500,Whiskered Tern,Chlidonias hybrida,High,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-501,Common Tern,Sterna hirundo,High,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-502,Black Stork,Ciconia nigra,Moderate,Ciconiiformes,Ciconiidae (Storks),Non-endemic,Wetland,Least Concern,Appendix II,Jammu and Kashmir
-503,Woolly-necked Stork,Ciconia episcopus,Moderate,Ciconiiformes,Ciconiidae (Storks),Non-endemic,Open Habitat,Near Threatened,,Jammu and Kashmir
-504,Little Cormorant,Microcarbo niger,Low,Suliformes,Phalacrocoracidae (Cormorants and Shags),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-505,Great Cormorant,Phalacrocorax carbo,Low,Suliformes,Phalacrocoracidae (Cormorants and Shags),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-506,Grey Heron,Ardea cinerea,Low,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-507,Purple Heron,Ardea purpurea,Low,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-508,Great Egret,Ardea alba,Low,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-509,Intermediate Egret,Ardea intermedia,Low,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-510,Little Egret,Egretta garzetta,Low,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-511,Cattle Egret,Bubulcus ibis,Low,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-512,Indian Pond Heron,Ardeola grayii,Low,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-513,Black-crowned Night Heron,Nycticorax nycticorax,Low,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-514,Glossy Ibis,Plegadis falcinellus,Low,Pelecaniformes,Threskiornithidae (Ibises and Spoonbills),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-515,Osprey,Pandion haliaetus,High,Accipitriformes,Pandionidae (Osprey),Non-endemic,Wetland,Least Concern,Appendix II,Jammu and Kashmir
-516,Black-winged Kite,Elanus caeruleus,Moderate,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Open Habitat,Least Concern,Appendix II,Jammu and Kashmir
-517,Bearded Vulture,Gypaetus barbatus,High,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Non-specialized,Near Threatened,Appendix II,Jammu and Kashmir
-518,Egyptian Vulture,Neophron percnopterus,High,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Open Habitat,Endangered,Appendix II,Jammu and Kashmir
-519,Oriental Honey Buzzard,Pernis ptilorhynchus,Low,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Forest & Plantation,Least Concern,Appendix II,Jammu and Kashmir
-520,Cinereous Vulture,Aegypius monachus,Moderate,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Open Habitat,Near Threatened,Appendix II,Jammu and Kashmir
-521,Himalayan Vulture,Gyps himalayensis,Moderate,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Non-specialized,Near Threatened,Appendix II,Jammu and Kashmir
-522,Short-toed Snake Eagle,Circaetus gallicus,High,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Open Habitat,Least Concern,Appendix II,Jammu and Kashmir
-523,Mountain Hawk Eagle,Nisaetus nipalensis,Low,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Forest,Near Threatened,Appendix II,Jammu and Kashmir
-524,Booted Eagle,Hieraaetus pennatus,Low,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Non-specialized,Least Concern,Appendix II,Jammu and Kashmir
-525,Steppe Eagle,Aquila nipalensis,Low,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Non-specialized,Endangered,Appendix II,Jammu and Kashmir
-526,Golden Eagle,Aquila chrysaetos,Low,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Alpine & Cold Desert,Least Concern,Appendix II,Jammu and Kashmir
-527,Western Marsh Harrier,Circus aeruginosus,High,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Open Habitat,Least Concern,Appendix II,Jammu and Kashmir
-528,Hen Harrier,Circus cyaneus,Moderate,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Open Habitat,Least Concern,Appendix II,Jammu and Kashmir
-529,Pallid Harrier,Circus macrourus,High,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Grassland,Near Threatened,Appendix II,Jammu and Kashmir
-530,Montagu's Harrier,Circus pygargus,High,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Grassland,Least Concern,Appendix II,Jammu and Kashmir
-531,Shikra,Accipiter badius,Low,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Non-specialized,Least Concern,Appendix II,Jammu and Kashmir
-532,Eurasian Sparrowhawk,Accipiter nisus,Low,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Non-specialized,Least Concern,Appendix II,Jammu and Kashmir
-533,Black Kite,Milvus migrans,Low,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Non-specialized,Least Concern,Appendix II,Jammu and Kashmir
-534,Pallas's Fish Eagle,Haliaeetus leucoryphus,High,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Wetland,Endangered,Appendix II,Jammu and Kashmir
-535,Common Buzzard,Buteo buteo,Low,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Non-specialized,Least Concern,Appendix II,Jammu and Kashmir
-536,Long-legged Buzzard,Buteo rufinus,Low,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Non-specialized,Least Concern,Appendix II,Jammu and Kashmir
-537,Collared Owlet,Taenioptynx brodiei,Low,Strigiformes,Strigidae (Owls),Non-endemic,Forest,Least Concern,Appendix II,Jammu and Kashmir
-538,Short-eared Owl,Asio flammeus,Low,Strigiformes,Strigidae (Owls),Non-endemic,Grassland,Least Concern,Appendix II,Jammu and Kashmir
-539,Eurasian Hoopoe,Upupa epops,Moderate,Bucerotiformes,Upupidae (Hoopoes),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-540,Common Kingfisher,Alcedo atthis,Low,Coraciiformes,Alcedinidae (Kingfishers),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-541,White-throated Kingfisher,Halcyon smyrnensis,Low,Coraciiformes,Alcedinidae (Kingfishers),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-542,Pied Kingfisher,Ceryle rudis,Moderate,Coraciiformes,Alcedinidae (Kingfishers),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-543,Blue-cheeked Bee-eater,Merops persicus,Low,Coraciiformes,Meropidae (Bee-eaters),Non-endemic,Open Habitat,Least Concern,,Jammu and Kashmir
-544,European Roller,Coracias garrulus,Moderate,Coraciiformes,Coraciidae (Rollers),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-545,Indian Roller,Coracias benghalensis,Moderate,Coraciiformes,Coraciidae (Rollers),Non-endemic,Open Habitat,Least Concern,,Jammu and Kashmir
-546,Eurasian Wryneck,Jynx torquilla,Low,Piciformes,Picidae (Woodpeckers),Non-endemic,Open Habitat,Least Concern,,Jammu and Kashmir
-547,Himalayan Woodpecker,Dendrocopos himalayensis,Low,Piciformes,Picidae (Woodpeckers),Himalayas,Forest,Least Concern,,Jammu and Kashmir
-548,Scaly-bellied Woodpecker,Picus squamatus,Low,Piciformes,Picidae (Woodpeckers),Himalayas,Forest & Plantation,Least Concern,,Jammu and Kashmir
-549,Common Kestrel,Falco tinnunculus,High,Falconiformes,Falconidae (Falcons and Caracaras),Non-endemic,Open Habitat,Least Concern,Appendix II,Jammu and Kashmir
-550,Eurasian Hobby,Falco subbuteo,Low,Falconiformes,Falconidae (Falcons and Caracaras),Non-endemic,Open Habitat,Least Concern,Appendix II,Jammu and Kashmir
-551,Saker Falcon,Falco cherrug,High,Falconiformes,Falconidae (Falcons and Caracaras),Non-endemic,Open Habitat,Endangered,Appendix II,Jammu and Kashmir
-552,Peregrine Falcon,Falco peregrinus,Low,Falconiformes,Falconidae (Falcons and Caracaras),Non-endemic,Open Habitat,Least Concern,Appendix I,Jammu and Kashmir
-553,Alexandrine Parakeet,Psittacula eupatria,Low,Psittaciformes,Psittaculidae (Old World Parrots),Non-endemic,Forest & Plantation,Near Threatened,Appendix II,Jammu and Kashmir
-554,Rose-ringed Parakeet,Psittacula krameri,Low,Psittaciformes,Psittaculidae (Old World Parrots),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-555,Plum-headed Parakeet,Psittacula cyanocephala,Low,Psittaciformes,Psittaculidae (Old World Parrots),Indian Subcontinent,Forest,Least Concern,Appendix II,Jammu and Kashmir
-556,Long-tailed Minivet,Pericrocotus ethologus,Low,Passeriformes,Campephagidae (Cuckooshrikes),Non-endemic,Forest & Plantation,Least Concern,,Jammu and Kashmir
-557,Indian Golden Oriole,Oriolus kundoo,Low,Passeriformes,Oriolidae (Old World Orioles),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-558,Black Drongo,Dicrurus macrocercus,Low,Passeriformes,Dicruridae (Drongos),Non-endemic,Open Habitat,Least Concern,,Jammu and Kashmir
-559,Ashy Drongo,Dicrurus leucophaeus,Low,Passeriformes,Dicruridae (Drongos),Non-endemic,Forest & Plantation,Least Concern,,Jammu and Kashmir
-560,Indian Paradise-flycatcher,Terpsiphone paradisi,Low,Passeriformes,Monarchidae (Monarch Flycatchers),Non-endemic,Forest & Plantation,Least Concern,,Jammu and Kashmir
-561,Isabelline Shrike,Lanius isabellinus,High,Passeriformes,Laniidae (Shrikes),Non-endemic,Open Habitat,Least Concern,,Jammu and Kashmir
-562,Bay-backed Shrike,Lanius vittatus,Low,Passeriformes,Laniidae (Shrikes),Non-endemic,Open Habitat,Least Concern,,Jammu and Kashmir
-563,Long-tailed Shrike,Lanius schach,Low,Passeriformes,Laniidae (Shrikes),Non-endemic,Open Habitat,Least Concern,,Jammu and Kashmir
-564,Grey-backed Shrike,Lanius tephronotus,Low,Passeriformes,Laniidae (Shrikes),Non-endemic,Open Habitat,Least Concern,,Jammu and Kashmir
-565,Great Grey Shrike,Lanius excubitor,High,Passeriformes,Laniidae (Shrikes),Non-endemic,Grassland,Least Concern,,Jammu and Kashmir
-566,Black-headed Jay,Garrulus lanceolatus,Moderate,Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Western Himalayas,Forest & Plantation,Least Concern,,Jammu and Kashmir
-567,Kashmir Nutcracker,Nucifraga multipunctata,Moderate,Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Western Himalayas,Forest,Least Concern,,Jammu and Kashmir
-568,Red-billed Chough,Pyrrhocorax pyrrhocorax,Low,Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Non-endemic,Alpine & Cold Desert,Least Concern,,Jammu and Kashmir
-569,Yellow-billed Chough,Pyrrhocorax graculus,Low,Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Non-endemic,Alpine & Cold Desert,Least Concern,,Jammu and Kashmir
-570,House Crow,Corvus splendens,Low,Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-571,Large-billed Crow,Corvus macrorhynchos,Low,Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-572,Common Raven,Corvus corax,Low,Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Non-endemic,Open Habitat,Least Concern,,Jammu and Kashmir
-573,Coal Tit,Periparus ater,Low,Passeriformes,"Paridae (Tits, Chickadees, and Titmice)",Non-endemic,Forest,Least Concern,,Jammu and Kashmir
-574,Rufous-naped Tit,Periparus rufonuchalis,Low,Passeriformes,"Paridae (Tits, Chickadees, and Titmice)",Non-endemic,Forest,Least Concern,,Jammu and Kashmir
-575,Green-backed Tit,Parus monticolus,Low,Passeriformes,"Paridae (Tits, Chickadees, and Titmice)",Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-576,Cinereous Tit,Parus cinereus,Low,Passeriformes,"Paridae (Tits, Chickadees, and Titmice)",Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-577,Horned Lark,Eremophila alpestris,Low,Passeriformes,Alaudidae (Larks),Non-endemic,Alpine & Cold Desert,Least Concern,,Jammu and Kashmir
-578,Greater Short-toed Lark,Calandrella brachydactyla,Moderate,Passeriformes,Alaudidae (Larks),Non-endemic,Open Habitat,Least Concern,,Jammu and Kashmir
-579,Hume's Short-toed Lark,Calandrella acutirostris,Moderate,Passeriformes,Alaudidae (Larks),Non-endemic,Open Habitat,Least Concern,,Jammu and Kashmir
-580,Oriental Skylark,Alauda gulgula,High,Passeriformes,Alaudidae (Larks),Non-endemic,Open Habitat,Least Concern,,Jammu and Kashmir
-581,Crested Lark,Galerida cristata,Moderate,Passeriformes,Alaudidae (Larks),Non-endemic,Open Habitat,Least Concern,,Jammu and Kashmir
-582,Grey-breasted Prinia,Prinia hodgsonii,Low,Passeriformes,Cisticolidae (Cisticolas and Allies),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-583,Booted Warbler,Iduna caligata,Low,Passeriformes,Acrocephalidae (Reed Warblers and Allies),Non-endemic,Open Habitat,Least Concern,,Jammu and Kashmir
-584,Paddyfield Warbler,Acrocephalus agricola,Low,Passeriformes,Acrocephalidae (Reed Warblers and Allies),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-585,Blyth's Reed Warbler,Acrocephalus dumetorum,Low,Passeriformes,Acrocephalidae (Reed Warblers and Allies),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-586,Clamorous Reed Warbler,Acrocephalus stentoreus,Low,Passeriformes,Acrocephalidae (Reed Warblers and Allies),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-587,Long-billed Bush Warbler,Locustella major,High,Passeriformes,Locustellidae (Grassbirds and Allies),Non-endemic,Grassland & Scrub,Near Threatened,,Jammu and Kashmir
-588,Grey-throated Martin,Riparia chinensis,Moderate,Passeriformes,Hirundinidae (Swallows),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-589,Eurasian Crag Martin,Ptyonoprogne rupestris,High,Passeriformes,Hirundinidae (Swallows),Non-endemic,Alpine & Cold Desert,Least Concern,,Jammu and Kashmir
-590,Barn Swallow,Hirundo rustica,Moderate,Passeriformes,Hirundinidae (Swallows),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-591,Wire-tailed Swallow,Hirundo smithii,Low,Passeriformes,Hirundinidae (Swallows),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-592,Red-rumped Swallow,Cecropis daurica,Low,Passeriformes,Hirundinidae (Swallows),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-593,Asian House Martin,Delichon dasypus,Moderate,Passeriformes,Hirundinidae (Swallows),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-594,Himalayan Bulbul,Pycnonotus leucogenys,Low,Passeriformes,Pycnonotidae (Bulbuls),Himalayas,Non-specialized,Least Concern,,Jammu and Kashmir
-595,Buff-barred Warbler,Phylloscopus pulcher,Low,Passeriformes,Phylloscopidae (Leaf Warblers),Non-endemic,Forest,Least Concern,,Jammu and Kashmir
-596,Hume's Warbler,Phylloscopus humei,Low,Passeriformes,Phylloscopidae (Leaf Warblers),Non-endemic,Forest & Plantation,Least Concern,,Jammu and Kashmir
-597,Brooks's Leaf Warbler,Phylloscopus subviridis,Moderate,Passeriformes,Phylloscopidae (Leaf Warblers),Non-endemic,Forest & Plantation,Least Concern,,Jammu and Kashmir
-598,Lemon-rumped Warbler,Phylloscopus chloronotus,Moderate,Passeriformes,Phylloscopidae (Leaf Warblers),Non-endemic,Forest & Plantation,Least Concern,,Jammu and Kashmir
-599,Tytler's Leaf Warbler,Phylloscopus tytleri,Moderate,Passeriformes,Phylloscopidae (Leaf Warblers),Non-endemic,Forest & Plantation,Least Concern,,Jammu and Kashmir
-600,Sulphur-bellied Warbler,Phylloscopus griseolus,High,Passeriformes,Phylloscopidae (Leaf Warblers),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-601,Tickell's Leaf Warbler,Phylloscopus affinis,Low,Passeriformes,Phylloscopidae (Leaf Warblers),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-602,Dusky Warbler,Phylloscopus fuscatus,Low,Passeriformes,Phylloscopidae (Leaf Warblers),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-603,Common Chiffchaff,Phylloscopus collybita,Low,Passeriformes,Phylloscopidae (Leaf Warblers),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-604,Whistler's Warbler,Phylloscopus whistleri,Low,Passeriformes,Phylloscopidae (Leaf Warblers),Non-endemic,Forest,Least Concern,,Jammu and Kashmir
-605,Greenish Warbler,Phylloscopus trochiloides,Low,Passeriformes,Phylloscopidae (Leaf Warblers),Non-endemic,Forest & Plantation,Least Concern,,Jammu and Kashmir
-606,Large-billed Leaf Warbler,Phylloscopus magnirostris,Moderate,Passeriformes,Phylloscopidae (Leaf Warblers),Non-endemic,Forest,Least Concern,,Jammu and Kashmir
-607,Western Crowned Warbler,Phylloscopus occipitalis,Moderate,Passeriformes,Phylloscopidae (Leaf Warblers),Non-endemic,Forest & Plantation,Least Concern,,Jammu and Kashmir
-608,Brownish-flanked Bush Warbler,Horornis fortipes,Low,Passeriformes,Scotocercidae (Bush Warblers and Allies),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-609,White-browed Tit Warbler,Leptopoecile sophiae,Moderate,Passeriformes,Aegithalidae (Long-tailed Tits),Non-endemic,Alpine & Cold Desert,Least Concern,,Jammu and Kashmir
-610,Lesser Whitethroat,Curruca curruca,Low,Passeriformes,"Sylviidae (Sylviid Warblers, Parrotbills, and Allies)",Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-611,Indian White-eye,Zosterops palpebrosus,Low,Passeriformes,"Zosteropidae (White-eyes, Yuhinas, and Allies)",Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-612,Streaked Laughingthrush,Trochalopteron lineatum,Low,Passeriformes,Leiothrichidae (Laughingthrushes and Allies),Himalayas,Non-specialized,Least Concern,,Jammu and Kashmir
-613,Variegated Laughingthrush,Trochalopteron variegatum,Low,Passeriformes,Leiothrichidae (Laughingthrushes and Allies),Himalayas,Forest & Plantation,Least Concern,,Jammu and Kashmir
-614,Goldcrest,Regulus regulus,Low,Passeriformes,Regulidae (Kinglets),Non-endemic,Forest,Least Concern,,Jammu and Kashmir
-615,Wallcreeper,Tichodroma muraria,High,Passeriformes,Tichodromidae (Wallcreeper),Non-endemic,Open Habitat,Least Concern,,Jammu and Kashmir
-616,Kashmir Nuthatch,Sitta cashmirensis,Moderate,Passeriformes,Sittidae (Nuthatches),Western Himalayas,Forest & Plantation,Least Concern,,Jammu and Kashmir
-617,White-cheeked Nuthatch,Sitta leucopsis,Moderate,Passeriformes,Sittidae (Nuthatches),Western Himalayas,Forest,Least Concern,,Jammu and Kashmir
-618,Hodgson's Treecreeper,Certhia hodgsoni,Low,Passeriformes,Certhiidae (Treecreepers),Non-endemic,Forest,Least Concern,,Jammu and Kashmir
-619,Bar-tailed Treecreeper,Certhia himalayana,Low,Passeriformes,Certhiidae (Treecreepers),Non-endemic,Forest & Plantation,Least Concern,,Jammu and Kashmir
-620,Eurasian Wren,Troglodytes troglodytes,Low,Passeriformes,Troglodytidae (Wrens),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-621,White-throated Dipper,Cinclus cinclus,Low,Passeriformes,Cinclidae (Dippers),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-622,Brown Dipper,Cinclus pallasii,High,Passeriformes,Cinclidae (Dippers),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-623,Common Starling,Sturnus vulgaris,Moderate,Passeriformes,Sturnidae (Starlings),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-624,Rosy Starling,Pastor roseus,Moderate,Passeriformes,Sturnidae (Starlings),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-625,Asian Pied Starling,Gracupica contra,Low,Passeriformes,Sturnidae (Starlings),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-626,Brahminy Starling,Sturnia pagodarum,Low,Passeriformes,Sturnidae (Starlings),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-627,Common Myna,Acridotheres tristis,Low,Passeriformes,Sturnidae (Starlings),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-628,Grandala,Grandala coelicolor,Moderate,Passeriformes,Turdidae (Thrushes and Allies),Non-endemic,Alpine & Cold Desert,Least Concern,,Jammu and Kashmir
-629,Alpine Thrush,Zoothera mollissima,Low,Passeriformes,Turdidae (Thrushes and Allies),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-630,Scaly Thrush,Zoothera dauma,Low,Passeriformes,Turdidae (Thrushes and Allies),Non-endemic,Forest & Plantation,Least Concern,,Jammu and Kashmir
-631,Mistle Thrush,Turdus viscivorus,Low,Passeriformes,Turdidae (Thrushes and Allies),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-632,Grey-winged Blackbird,Turdus boulboul,Low,Passeriformes,Turdidae (Thrushes and Allies),Non-endemic,Forest,Least Concern,,Jammu and Kashmir
-633,Tickell's Thrush,Turdus unicolor,Low,Passeriformes,Turdidae (Thrushes and Allies),Indian Subcontinent,Forest & Plantation,Least Concern,,Jammu and Kashmir
-634,Chestnut Thrush,Turdus rubrocanus,Low,Passeriformes,Turdidae (Thrushes and Allies),Non-endemic,Forest & Plantation,Least Concern,,Jammu and Kashmir
-635,Black-throated Thrush,Turdus atrogularis,Low,Passeriformes,Turdidae (Thrushes and Allies),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-636,Red-throated Thrush,Turdus ruficollis,Moderate,Passeriformes,Turdidae (Thrushes and Allies),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-637,Dark-sided Flycatcher,Muscicapa sibirica,Low,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Forest,Least Concern,,Jammu and Kashmir
-638,Oriental Magpie Robin,Copsychus saularis,Low,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-639,Rufous-bellied Niltava,Niltava sundara,Low,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Forest,Least Concern,,Jammu and Kashmir
-640,White-bellied Redstart,Luscinia phaenicuroides,Moderate,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Alpine & Cold Desert,Least Concern,,Jammu and Kashmir
-641,Bluethroat,Luscinia svecica,Moderate,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-642,Blue Whistling Thrush,Myophonus caeruleus,Low,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-643,Little Forktail,Enicurus scouleri,Moderate,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Open Habitat,Least Concern,,Jammu and Kashmir
-644,Himalayan Rubythroat,Calliope pectoralis,Low,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Grassland & Scrub,Least Concern,,Jammu and Kashmir
-645,Chinese Rubythroat,Calliope tschebaiewi,Moderate,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Grassland,Least Concern,,Jammu and Kashmir
-646,Himalayan Bush Robin,Tarsiger rufilatus,Low,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Forest,Least Concern,,Jammu and Kashmir
-647,Rusty-tailed Flycatcher,Ficedula ruficauda,Moderate,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Forest,Least Concern,,Jammu and Kashmir
-648,Blue-fronted Redstart,Phoenicurus frontalis,Moderate,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-649,Plumbeous Water Redstart,Phoenicurus fuliginosus,High,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-650,White-capped Redstart,Phoenicurus leucocephalus,Moderate,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-651,Blue-capped Redstart,Phoenicurus coeruleocephala,Moderate,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Forest & Plantation,Least Concern,,Jammu and Kashmir
-652,Black Redstart,Phoenicurus ochruros,Moderate,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-653,Blue Rock Thrush,Monticola solitarius,High,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-654,Siberian Stonechat,Saxicola maurus,Low,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Open Habitat,Least Concern,,Jammu and Kashmir
-655,Isabelline Wheatear,Oenanthe isabellina,High,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Grassland,Least Concern,,Jammu and Kashmir
-656,Desert Wheatear,Oenanthe deserti,High,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Open Habitat,Least Concern,,Jammu and Kashmir
-657,Variable Wheatear,Oenanthe picata,High,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Open Habitat,Least Concern,,Jammu and Kashmir
-658,Purple Sunbird,Cinnyris asiaticus,Low,Passeriformes,Nectariniidae (Sunbirds and Spiderhunters),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-659,Alpine Accentor,Prunella collaris,Low,Passeriformes,Prunellidae (Accentors),Non-endemic,Alpine & Cold Desert,Least Concern,,Jammu and Kashmir
-660,Robin Accentor,Prunella rubeculoides,Low,Passeriformes,Prunellidae (Accentors),Non-endemic,Alpine & Cold Desert,Least Concern,,Jammu and Kashmir
-661,Rufous-breasted Accentor,Prunella strophiata,Moderate,Passeriformes,Prunellidae (Accentors),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-662,House Sparrow,Passer domesticus,Moderate,Passeriformes,Passeridae (Old World Sparrows),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-663,Russet Sparrow,Passer cinnamomeus,Low,Passeriformes,Passeridae (Old World Sparrows),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-664,Eurasian Tree Sparrow,Passer montanus,Low,Passeriformes,Passeridae (Old World Sparrows),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-665,Black-winged Snowfinch,Montifringilla adamsi,Moderate,Passeriformes,Passeridae (Old World Sparrows),Non-endemic,Alpine & Cold Desert,Least Concern,,Jammu and Kashmir
-666,Forest Wagtail,Dendronanthus indicus,High,Passeriformes,Motacillidae (Wagtails and Pipits),Non-endemic,Forest & Plantation,Least Concern,,Jammu and Kashmir
-667,Grey Wagtail,Motacilla cinerea,Moderate,Passeriformes,Motacillidae (Wagtails and Pipits),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-668,Western Yellow Wagtail,Motacilla flava,Moderate,Passeriformes,Motacillidae (Wagtails and Pipits),Non-endemic,Open Habitat,Least Concern,,Jammu and Kashmir
-669,Citrine Wagtail,Motacilla citreola,Moderate,Passeriformes,Motacillidae (Wagtails and Pipits),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-670,White-browed Wagtail,Motacilla maderaspatensis,Low,Passeriformes,Motacillidae (Wagtails and Pipits),Indian Subcontinent,Non-specialized,Least Concern,,Jammu and Kashmir
-671,White Wagtail,Motacilla alba,Moderate,Passeriformes,Motacillidae (Wagtails and Pipits),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
-672,Richard's Pipit,Anthus richardi,Low,Passeriformes,Motacillidae (Wagtails and Pipits),Non-endemic,Open Habitat,Least Concern,,Jammu and Kashmir
-673,Paddyfield Pipit,Anthus rufulus,Low,Passeriformes,Motacillidae (Wagtails and Pipits),Non-endemic,Open Habitat,Least Concern,,Jammu and Kashmir
-674,Rosy Pipit,Anthus roseatus,Low,Passeriformes,Motacillidae (Wagtails and Pipits),Non-endemic,Open Habitat,Least Concern,,Jammu and Kashmir
-675,Tree Pipit,Anthus trivialis,Moderate,Passeriformes,Motacillidae (Wagtails and Pipits),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-676,Olive-backed Pipit,Anthus hodgsoni,High,Passeriformes,Motacillidae (Wagtails and Pipits),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-677,Common Rosefinch,Carpodacus erythrinus,Moderate,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-678,Blyth's Rosefinch,Carpodacus grandis,Moderate,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Himalayas,Non-specialized,Not Recognised,,Jammu and Kashmir
-679,Pink-browed Rosefinch,Carpodacus rodochroa,Low,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Himalayas,Non-specialized,Least Concern,,Jammu and Kashmir
-680,Himalayan White-browed Rosefinch,Carpodacus thura,Moderate,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Himalayas,Forest,Least Concern,,Jammu and Kashmir
-681,Orange Bullfinch,Pyrrhula aurantiaca,Moderate,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Western Himalayas,Forest,Least Concern,,Jammu and Kashmir
-682,Spectacled Finch,Callacanthis burtoni,Moderate,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Western Himalayas,Forest,Least Concern,,Jammu and Kashmir
-683,Plain Mountain Finch,Leucosticte nemoricola,Moderate,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Non-endemic,Alpine & Cold Desert,Least Concern,,Jammu and Kashmir
-684,Brandt's Mountain Finch,Leucosticte brandti,Low,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Non-endemic,Alpine & Cold Desert,Least Concern,,Jammu and Kashmir
-685,Yellow-breasted Greenfinch,Chloris spinoides,Moderate,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Himalayas,Non-specialized,Least Concern,,Jammu and Kashmir
-686,Twite,Linaria flavirostris,Moderate,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Non-endemic,Alpine & Cold Desert,Least Concern,,Jammu and Kashmir
-687,European Goldfinch,Carduelis carduelis,Low,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-688,Fire-fronted Serin,Serinus pusillus,Low,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-689,Rock Bunting,Emberiza cia,Low,Passeriformes,Emberizidae (Old World Buntings),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-690,White-capped Bunting,Emberiza stewarti,Low,Passeriformes,Emberizidae (Old World Buntings),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
-691,Grey-necked Bunting,Emberiza buchanani,Moderate,Passeriformes,Emberizidae (Old World Buntings),Non-endemic,Grassland & Scrub,Least Concern,,Jammu and Kashmir
-692,Little Bunting,Emberiza pusilla,Low,Passeriformes,Emberizidae (Old World Buntings),Non-endemic,Open Habitat,Least Concern,,Jammu and Kashmir
+421,Blyth's Swift,Apus leuconyx,Moderate,Caprimulgiformes,Apodidae (Swifts),Non-endemic,Forest,Not Recognised,,Jammu and Kashmir
+422,Demoiselle Crane,Grus virgo,High,Gruiformes,Gruidae (Cranes),Non-endemic,Open Habitat,Least Concern,Appendix II,Jammu and Kashmir
+423,Black-necked Crane,Grus nigricollis,Moderate,Gruiformes,Gruidae (Cranes),Non-endemic,Wetland,Near Threatened,Appendix I,Jammu and Kashmir
+424,Pied Avocet,Recurvirostra avosetta,High,Charadriiformes,Recurvirostridae (Stilts and Avocets),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
+425,Pacific Golden Plover,Pluvialis fulva,Moderate,Charadriiformes,Charadriidae (Plovers and Lapwings),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
+426,Lesser Sand Plover,Charadrius mongolus,High,Charadriiformes,Charadriidae (Plovers and Lapwings),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
+427,Whimbrel,Numenius phaeopus,Moderate,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
+428,Eurasian Curlew,Numenius arquata,High,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Near Threatened,,Jammu and Kashmir
+429,Black-tailed Godwit,Limosa limosa,High,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Near Threatened,,Jammu and Kashmir
+430,Broad-billed Sandpiper,Calidris falcinellus,Moderate,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
+431,Curlew Sandpiper,Calidris ferruginea,High,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Near Threatened,,Jammu and Kashmir
+432,Sanderling,Calidris alba,High,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
+433,Pintail Snipe,Gallinago stenura,High,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
+434,Terek Sandpiper,Xenus cinereus,High,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
+435,Marsh Sandpiper,Tringa stagnatilis,High,Charadriiformes,Scolopacidae (Sandpipers and Allies),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
+436,Little Tern,Sternula albifrons,High,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
+437,Gull-billed Tern,Gelochelidon nilotica,High,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
+438,Common Tern,Sterna hirundo,High,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
+439,Pallid Harrier,Circus macrourus,High,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Grassland,Near Threatened,Appendix II,Jammu and Kashmir
+440,Montagu's Harrier,Circus pygargus,High,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Non-endemic,Grassland,Least Concern,Appendix II,Jammu and Kashmir
+441,Short-eared Owl,Asio flammeus,Low,Strigiformes,Strigidae (Owls),Non-endemic,Grassland,Least Concern,Appendix II,Jammu and Kashmir
+442,Blue-cheeked Bee-eater,Merops persicus,Low,Coraciiformes,Meropidae (Bee-eaters),Non-endemic,Open Habitat,Least Concern,,Jammu and Kashmir
+443,Saker Falcon,Falco cherrug,High,Falconiformes,Falconidae (Falcons and Caracaras),Non-endemic,Open Habitat,Endangered,Appendix II,Jammu and Kashmir
+444,Isabelline Shrike,Lanius isabellinus,High,Passeriformes,Laniidae (Shrikes),Non-endemic,Open Habitat,Least Concern,,Jammu and Kashmir
+445,Great Grey Shrike,Lanius excubitor,High,Passeriformes,Laniidae (Shrikes),Non-endemic,Grassland,Least Concern,,Jammu and Kashmir
+446,Long-billed Bush Warbler,Locustella major,High,Passeriformes,Locustellidae (Grassbirds and Allies),Non-endemic,Grassland & Scrub,Near Threatened,,Jammu and Kashmir
+447,Brooks's Leaf Warbler,Phylloscopus subviridis,Moderate,Passeriformes,Phylloscopidae (Leaf Warblers),Non-endemic,Forest & Plantation,Least Concern,,Jammu and Kashmir
+448,Dusky Warbler,Phylloscopus fuscatus,Low,Passeriformes,Phylloscopidae (Leaf Warblers),Non-endemic,Wetland,Least Concern,,Jammu and Kashmir
+449,White-browed Tit Warbler,Leptopoecile sophiae,Moderate,Passeriformes,Aegithalidae (Long-tailed Tits),Non-endemic,Alpine & Cold Desert,Least Concern,,Jammu and Kashmir
+450,Rosy Starling,Pastor roseus,Moderate,Passeriformes,Sturnidae (Starlings),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
+451,Grandala,Grandala coelicolor,Moderate,Passeriformes,Turdidae (Thrushes and Allies),Non-endemic,Alpine & Cold Desert,Least Concern,,Jammu and Kashmir
+452,Chinese Rubythroat,Calliope tschebaiewi,Moderate,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Grassland,Least Concern,,Jammu and Kashmir
+453,Isabelline Wheatear,Oenanthe isabellina,High,Passeriformes,Muscicapidae (Old World Flycatchers),Non-endemic,Grassland,Least Concern,,Jammu and Kashmir
+454,Eurasian Tree Sparrow,Passer montanus,Low,Passeriformes,Passeridae (Old World Sparrows),Non-endemic,Non-specialized,Least Concern,,Jammu and Kashmir
+455,Black-winged Snowfinch,Montifringilla adamsi,Moderate,Passeriformes,Passeridae (Old World Sparrows),Non-endemic,Alpine & Cold Desert,Least Concern,,Jammu and Kashmir
+456,Richard's Pipit,Anthus richardi,Low,Passeriformes,Motacillidae (Wagtails and Pipits),Non-endemic,Open Habitat,Least Concern,,Jammu and Kashmir
+457,Brandt's Mountain Finch,Leucosticte brandti,Low,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Non-endemic,Alpine & Cold Desert,Least Concern,,Jammu and Kashmir
+458,Grey-necked Bunting,Emberiza buchanani,Moderate,Passeriformes,Emberizidae (Old World Buntings),Non-endemic,Grassland & Scrub,Least Concern,,Jammu and Kashmir
+459,Little Bunting,Emberiza pusilla,Low,Passeriformes,Emberizidae (Old World Buntings),Non-endemic,Open Habitat,Least Concern,,Jammu and Kashmir
 0,Lesser Whistling Duck,Dendrocygna javanica,Low,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Least Concern,,Jharkhand
 1,Bar-headed Goose,Anser indicus,Moderate,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Least Concern,,Jharkhand
 2,Greylag Goose,Anser anser,Low,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Non-endemic,Wetland,Least Concern,,Jharkhand
