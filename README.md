@@ -1,14 +1,17 @@
 # Extracting a meaningful insight from a large dataset in python
 
-## Aim: To find which Indian states hold the most number of critically endangered and endangered species. This may help prioritize state-level bird conservation. 
-## Data source: The data associated with the State of India’s Birds 2023 (SOIB23) report.
+## Aim: 
+To find which Indian states hold the most number of critically endangered and endangered species. This may help prioritize state-level bird conservation. 
+## Data source: 
+The data associated with the State of India’s Birds 2023 (SOIB23) report.
 ## Analysis: 
 Using the raw data, I created a CSV file (all_birds.csv) containing bird species with corresponding IUCN and SOIB status and the name of the state it is found in. 
 I then left joined all_birds.csv with the shapefile of Indian states (IND_state.gpkg) and made a map using plotly.
 Finally, I produced two maps for birds classified as SOIB- 'High' priority and IUCN classification 'Critically Endangered' and 'Endangered'.
 The colour of states corresponds to the no.of selected status bird species found in the state.
 
-## Result: My initial analysis corresponds with Table 5 from the SOIB23 identifying species within IUCN classification and SOIB conservation priorities. 
+## Result: 
+My initial analysis corresponds with Table 5 from the SOIB23 identifying species within IUCN classification and SOIB conservation priorities. 
 ### Table 1: Correspondence between IUCN Red List Categories and SoIB Categories of Conservation Priority (Source: State of India’s Bords 2023 - Table 5)
 SoIB23 conservation priority, IUCN classification, Count
 High, Critically Endangered, 14
