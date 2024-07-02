@@ -1,9 +1,13 @@
-# Extracting a meaningful insight from a large dataset in python
+# Which state to prioritize for bird conservation in India?
+This is a mini-project I did to get better at data visualization using plotly to display maps in Python.
 
 ## Aim: 
 To find which Indian states hold the most number of critically endangered and endangered species. This may help prioritize state-level bird conservation. 
+ 
 ## Data source: 
-The data associated with the State of India’s Birds 2023 (SOIB23) report.
+The Complete Table of Species Conservation Assessments data associated with the State of India’s Birds 2023 (SOIB23) report.
+I also used a shapefile of Indian states obtained from the Survey of India website which I tweaked a bit in QGIS to adjust the state names as per the Assessment data. 
+
 ## Analysis: 
 Using the raw data, I created a CSV file (all_birds.csv) containing bird species with corresponding IUCN and SOIB status and the name of the state it is found in. 
 I then left joined all_birds.csv with the shapefile of Indian states (IND_state.gpkg) and made a map using plotly.
