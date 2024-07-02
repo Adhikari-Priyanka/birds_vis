@@ -31,3 +31,7 @@ The north-western state of Rajasthan is home to 7 critically endangered and 8 en
 ## Conclusions: 
 I suggest conservation be prioritized in Rajasthan, especially for Hawkes, Eagles and Kites for maximum impact of conservation efforts. 
 In the case of conservation by way of habitat restoration and creation, wetland and Open habitat types can be selected since they each support up to 4 different species of high-priority birds. 
+
+## To do further:
+- Enable hover on map to display the names of species in a state.
+- Habitat maps?
